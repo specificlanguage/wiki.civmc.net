@@ -14,7 +14,7 @@ description: Fun Mechanics
 
 [Elevators](./elevators)
 
-[Castle Gates](./castlegates)
+[Castle Gates](./castlegate)
 
 [Arthropod Egg](./arthropodegg)
 
