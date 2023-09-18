@@ -82,8 +82,7 @@ When trying to find the correct cooking time for a brew, the best way is to look
 Ultimately though, discovering new brewing recipes is a whole bunch of trial and error, trying out different combinations of ingredients, distilling, aging, wood types, and timings. A master brewer is a patient one.
 To help you start out however, we have provided some information below of all brews in the game. 
 
-<details open>
-  <summary><h2>List of Discoverable Brews</h2></summary>
+ ## List of Discoverable Brews.
 
 |  #  |   Type   |             Name              | Ingredient Amount | Texture ID |
 |:---:|:--------:|:-----------------------------:|:-----------------:|:----------:|
@@ -337,10 +336,8 @@ To help you start out however, we have provided some information below of all br
 | 248 |  Player  |     Gamer Gwua Bathwater      |         3         |   800021   |
 | 249 |  Player  |      Okx's Oxeye Oxkick       |         3         |   800022   |
 | 250 |  Player  |    Leo's Orange Creamsicle    |         6         |   800023   |
-</details>
     
-<details open>
-  <summary><h2>List of Custom Ingredients.</h2></summary>
+## List of Custom Ingredients.
 
 |  #  |        Name        | Texture ID |
 |:---:|:------------------:|:----------:|
@@ -410,10 +407,9 @@ To help you start out however, we have provided some information below of all br
 | 64  |      Chlorine      |   200007   |
 | 65  |       Dough        |   200008   |
 | 66  |       Butter       |   200009   |
-</details>
     
-<details open>
-  <summary><h2>List of Vanilla Ingredients.</h2></summary>
+
+## List of Vanilla Ingredients.
 
 |  #  |                 Name                  |
 |:---:|:-------------------------------------:|
@@ -546,4 +542,3 @@ To help you start out however, we have provided some information below of all br
 | 127 |             Birch Button              |
 | 128 |             Pig Spawn Egg             |
 | 129 |        Flowering Azalea Leaves        |    
-</details>
