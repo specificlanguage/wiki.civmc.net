@@ -48,7 +48,7 @@ Just place it down, and put your finished brews in it;s crafting grid for a seco
 ## Starter Brews
 Below are some simple recipes to help you get started in your brewing career. Some may require custom ingredients you'll have to discover first however.
 
-| Brew Name      |                      Cauldron <br> ingredients:Amount                       | Cauldron <br> Time | Distilling <br> Runs | Aging <br> Time | Wood <Br> Type |
+| Brew Name      |                      Cauldron <br> ingredients:Amount                       | Cauldron <br> Time | Distilling <br> Runs | Aging <br> Time | Wood <br> Type |
 | -------------- |:---------------------------------------------------------------------------:|:------------------:|:--------------------:|:---------------:|:--------------:|
 | Tea            |                                Oak Leaves: 4                                |       3 min        |          0           |        0        |       -        |
 | Lemonade       |                        Citrus Juice: 3 <br> Sugar: 8                        |       2 min        |          0           |        0        |       -        |
@@ -83,7 +83,7 @@ Ultimately though, discovering new brewing recipes is a whole bunch of trial and
 To help you start out however, we have provided some information below of all brews in the game. 
 
 <details open>
-  <summary><h2>List of Discoverable Brews</summary>
+  <summary><h2>List of Discoverable Brews</h2></summary>
 
 |  #  |   Type   |             Name              | Ingredient Amount | Texture ID |
 |:---:|:--------:|:-----------------------------:|:-----------------:|:----------:|
@@ -340,7 +340,7 @@ To help you start out however, we have provided some information below of all br
 </details>
     
 <details open>
-  <summary><h2>List of Custom Ingredients.</summary>
+  <summary><h2>List of Custom Ingredients.</h2></summary>
 
 |  #  |        Name        | Texture ID |
 |:---:|:------------------:|:----------:|
@@ -413,7 +413,7 @@ To help you start out however, we have provided some information below of all br
 </details>
     
 <details open>
-  <summary><h2>List of Vanilla Ingredients.</summary>
+  <summary><h2>List of Vanilla Ingredients.</h2></summary>
 
 |  #  |                 Name                  |
 |:---:|:-------------------------------------:|
