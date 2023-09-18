@@ -16,6 +16,8 @@ features:
     link: /pages/getting-started
   - title: Unique Mechanics
     details: Details of Mechanics unique to CivMC
-  - title: Fun tidbits
+    link: /pages/plugins/unique/index
+  - title: Fun
     details: Extra mechanics that provide fun and flavor
+    link: /pages/plugins/fun/index
 ---

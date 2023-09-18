@@ -7,4 +7,6 @@ description: Essential Plugins
 
 [NameLayer](./namelayer)
 
+[Citadel](./citadel)
+
 [ExilePearl](./exilepearl)
