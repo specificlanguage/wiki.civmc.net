@@ -3,7 +3,7 @@ title: Fun Mechanics
 description: Fun Mechanics
 ---
 
-# Fun Mechanics
+# Fun Plugins
 [Item Exchange](./itemexchange)
 
 [Brewery](./brewery)

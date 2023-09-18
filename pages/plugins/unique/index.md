@@ -3,7 +3,7 @@ title: Unique Mechanics
 description: Unique Mechanics
 ---
 
-# Fun Mechanics
+# Unique Plugins
 
 [Hiddenore](./hiddenore)
 
