@@ -21,3 +21,5 @@ Chunk limits help prevent lag by excessive amounts of certain blocks. these are 
 * Armor stands: 48
 * Paintings: 48
 * Player heads: 16
+
+This list can always be accessed in game by performing the command: /chunklimits
