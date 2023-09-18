@@ -21,12 +21,12 @@ export default defineConfig({
       {
         text: 'Plugins',
         items: [
-          { text: 'Essential Plugins', link: 'pages/plugins/essential/', collapsed: true, items: [
+          { text: 'Essential', link: 'pages/plugins/essential/', collapsed: true, items: [
             { text: 'NameLayer', link: 'pages/plugins/essential/namelayer' },
             { text: 'Citadel', link: 'pages/plugins/essential/citadel' },
             { text: 'ExilePearl', link: 'pages/plugins/essential/exilepearl' },
           ]},
-          { text: 'Unique Mechanics', link: 'pages/plugins/unique/', collapsed: true, items: [
+          { text: 'Unique', link: 'pages/plugins/unique/', collapsed: true, items: [
             { text: 'Hiddenore', link: 'pages/plugins/unique/hiddenore' },
             { text: 'Factorymod', link: 'pages/plugins/unique/factorymod' },
             { text: 'Finale', link: 'pages/plugins/unique/finale' },
