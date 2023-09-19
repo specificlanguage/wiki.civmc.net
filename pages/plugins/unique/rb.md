@@ -18,8 +18,8 @@ As you can see from the items with an enchanted glow, 3 things grow in the plain
 
 The greenhouse rate displayed in the example above means that when **artificial light from glowstone** is used instead of sun light the time is further altered by this amount. So in this example it will take 2x longer to grown oak trees, meaning 96 hours. This is a lot longer, but depending on the crop it may be worth it to stack up farms, saving horizontal space in exchange for longer growth times. 
 
-![Clay soil Bonus](./media/Clayexample.png)
-
 ## clay soil bonus
 
 A soil bonus will allow the crop to grow faster than normal. Simply putting layers of clay underneath the farmland, in this case (and most) a max of 8 layers of clay will speed up growth by a decent amount. This example of carrots with 16 hours growth time and 8 layers of clay added underneath would amount to a little below 8 hours. over half of the original time, and so is very much worth it when needed in high quantities for production of XP. 
+
+![Clay soil Bonus](./media/Clayexample.png)
