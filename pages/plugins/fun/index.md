@@ -4,18 +4,16 @@ description: Fun Mechanics
 ---
 
 # Fun Plugins
-[Item Exchange](./itemexchange)
+[Item Exchange](./itemexchange) - Shop chests, and how to set them up and protect them.
 
-[Brewery](./brewery)
+[Brewery](./brewery) - The making of Alcoholic drinks, special foods and drugs!
 
-[Wordbank](./wordbank)
+[Wordbank](./wordbank) - Unique discoverable colored names for your items, to show off how rich and cool you are.
 
-[Railswitch](./railswitch)
+[Railswitch](./railswitch) - Automatic AFKable travel, by use of minecart. How it works, how to use is, and how to set it up.
 
-[Elevators](./elevators)
+[Elevators](./elevators) - Exactly what you'd think, you jump on this block and you tp up, you sneak, you tp down. 
 
-[Castle Gates](./castlegate)
+[Castle Gates](./castlegate) - Fancy doors that go whoosh, and how to make them. 
 
-[Arthropod Egg](./arthropodegg)
-
-[Chunk Limits](./chunklimits)
+[Arthropod Egg](./arthropodegg) - Killing animals to put them in eggs. 

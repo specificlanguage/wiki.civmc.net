@@ -33,6 +33,7 @@ export default defineConfig({
             { text: 'JukeAlert', link: 'pages/plugins/unique/jukealert' },
             { text: 'Bastions', link: 'pages/plugins/unique/bastions' },
             { text: 'Realistic Biomes', link: 'pages/plugins/unique/rb' },
+            { text: 'Chunk Limits', link: 'pages/plugins/fun/chunklimits' },
           ]},
           { text: 'Fun', link: 'pages/plugins/fun/', collapsed: true, items: [
             { text: 'Item Exchange', link: 'pages/plugins/fun/itemexchange' },
@@ -42,7 +43,6 @@ export default defineConfig({
             { text: 'Elevators', link: 'pages/plugins/fun/elevators'},
             { text: 'Castlegate', link: 'pages/plugins/fun/castlegate' },
             { text: 'Arthropod Egg', link: 'pages/plugins/fun/arthropodegg' },
-            { text: 'Chunk Limits', link: 'pages/plugins/fun/chunklimits' },
           ]},
         ]
       }

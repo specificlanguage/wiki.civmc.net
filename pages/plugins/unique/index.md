@@ -5,14 +5,16 @@ description: Unique Mechanics
 
 # Unique Plugins
 
-[Hiddenore](./hiddenore)
+[Hiddenore](./hiddenore) - Where to find your everyday ores, and more. 
 
-[Factorymod](./factorymod)
+[Factorymod](./factorymod) - Crafting but better, The industrial revolution has come to Minecraft.
 
-[Finale](./finale)
+[Finale](./finale) - PVP Tweaks, important to know for those inclined to conflict. 
 
-[JukeAlert](./jukealert)
+[JukeAlert](./jukealert) - Surveillance, get to know how to track thieves,griefers and other villains. or learn how to avoid being seen.
 
-[Bastions](./bastions)
+[Bastions](./bastions) - A late game field of protection and control around your city, or military infrastructure.
 
-[Realistic Biomes](./rb)
+[Realistic Biomes](./rb) - How to get XP and why you can't grow crops like normal. 
+
+[Chunk Limits](./chunklimits) - Limits how many things you can place in a chunk like redstone.
