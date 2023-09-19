@@ -33,7 +33,7 @@ To edit permissions use the GUI by performing **/nl** then click on the group yo
 
 Now on the fence gate top right. There are 5 different layers of permissions.
 
-![Open permissons screen](./media/GroupPermissons.png)
+![Open permissons screen](./media/GroupPermissions.png)
 
 The first is for anyone not blacklisted, meaning that even people not on the group can use these permissions. 
 From then on it’s member, mod, admin and owner. All have preset permissions on group creation, but each can be changed simply by clicking on them and changing it from green to red to disallow, or red to green to allow for that rank. 
