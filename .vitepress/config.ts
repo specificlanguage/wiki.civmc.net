@@ -71,6 +71,10 @@ export default defineConfig({
       },
     ],
 
+    editLink: {
+      pattern: "https://github.com/CivMC/wiki.civmc.net/edit/main/:path",
+    },
+
     footer: {
       message:
         'All Content is released under the <a href="https://github.com/CivMC/wiki.civmc.net/blob/main/LICENSE.txt">MIT License</a>.',
