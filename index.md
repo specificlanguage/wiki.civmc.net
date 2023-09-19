@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Welcome to the CivMC Wiki"
-  tagline: Pardon our dust, we're still under construction.
+  tagline: Hints, tips, tricks and guides on all things CivMC.
   actions:
     - theme: brand
       text: Contribute on GitHub
