@@ -32,9 +32,9 @@ Below are explanations on the plugins CivMC uses, and detailed information about
 
 #### Need to know
 
-* [NameLayer(WIP)](./plugins/essential/namelayer) - Learn to Manage your chat and reinforcement groups.
-* [Citadel(WIP)](./plugins/essential/citadel) - Protect your buildings and chests, or learn how to break them.
-* [ExilePearl(WIP)](./plugins/essential/exilepearl) - How to take someone prisoner, or learn what it means to be imprisoned.
+* [NameLayer](./plugins/essential/namelayer) - Learn to Manage your chat and reinforcement groups.
+* [Citadel](./plugins/essential/citadel) - Protect your buildings and chests, or learn how to break them.
+* [ExilePearl](./plugins/essential/exilepearl) - How to take someone prisoner, or learn what it means to be imprisoned.
 
 #### Unique mechanic
 
