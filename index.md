@@ -17,7 +17,7 @@ features:
   - title: Unique Mechanics
     details: Details of Mechanics unique to CivMC
     link: /pages/plugins/unique/index
-  - title: Fun
+  - title: Fun Features
     details: Extra mechanics that provide fun and flavor
     link: /pages/plugins/fun/index
 ---
