@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "CivMC Wiki",
-  description: "Hints, Tips, Tricks and guides on all things CivMC",
+  description: "Hints, tips, tricks and guides on all things CivMC",
   cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
