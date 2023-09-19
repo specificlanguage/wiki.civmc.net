@@ -10,16 +10,16 @@ Citadel is another one of CivMC’s core features. Citadels allows players to re
 
 By running **/reinforcements** you can see that in the overworld, stone has a health of 50, iron 300 and diamond 2000
 
-![Reinforcements](./media/Reinforcements)
+![Reinforcements](./media/Reinforcements.png)
 
 
 Health here equates to how many times a block has to be broken before it is dropped. This is why it is customary on the server to reinforce everything that you build. Because it takes resources to do so for each block, stone is most often used for this, while the others like iron and diamond are kept for chests or other important or valuable blocks.
 
-![Breaking Reinforced block](./media/Blockbreak)
+![Breaking Reinforced block](./media/Blockbreak.gif)
 
 To reinforce an already placed block hold one of the above mentioned items in your hand (stone, iron or diamond) and perform **/ctr** followed by a NameLayer group name.
 
-![Turning on CTR](./media/CTR_on)
+![Turning on CTR](./media/CTR_on.png)
 
 Then punch the block you wish to reinforce to that group. This can also be done to change the reinforcement group of the block when it is already reinforced, given that you are on both groups and have a high enough permission level.
 
@@ -27,7 +27,7 @@ When particles appear around the block the reinforcement has been applied and th
 
 Te **exit reinforcement mode** or any other type of citadel mode perform **/cto**, or repeat the original command.
 
-![Turning off reinforcement mode](./media/CTO2)
+![Turning off reinforcement mode](./media/CTO2.png)
 
 ### Maturation time
 
@@ -72,11 +72,11 @@ Once the acid block has matured perform **/ctacid** while looking at the acid bl
 
 Bunkers are secure structures made with reinforced obsidian with the express purpose to keep people out who don't have permission to come inside. You can recognize them as big obsidian buildings, often with signs surrounding them telling you to keep out or else.
 
-![Example of bunker](./media/Bunker)
+--Example of bunker--
 
 Vaults are a much bigger variant of these bunkers, often stretching from bedrock to sky limit, that are most commonly used to store Exilepearls.
 
-![Example of vault](./media/Vault)
+--Example of vault--
 
 ## Dropchests
 
