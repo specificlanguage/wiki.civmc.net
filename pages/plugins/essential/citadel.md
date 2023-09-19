@@ -19,7 +19,7 @@ Health here equates to how many times a block has to be broken before it is drop
 
 To reinforce an already placed block hold one of the above mentioned items in your hand (stone, iron or diamond) and perform **/ctr** followed by a NameLayer group name.
 
-![Turning on CTR](./media/CTR%20on.png)
+![Turning on CTR](./media/CTRon.png)
 
 Then punch the block you wish to reinforce to that group. This can also be done to change the reinforcement group of the block when it is already reinforced, given that you are on both groups and have a high enough permission level.
 
