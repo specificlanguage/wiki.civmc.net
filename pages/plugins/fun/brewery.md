@@ -1,6 +1,6 @@
 ---
 title: Brewery
-description: Brewery plugin
+description: All info on the brewery plugin.
 ---
 
 # Brewery
@@ -8,6 +8,8 @@ Brewery is a plugin that allows players to produce alcoholic drink, foods and ev
 
 ## Setting up
 Setting up a brewery is very easy and only requires 3 separate things, all of which play a different part in the brewing process. These are as described below
+
+![Cauldron example](./media/Cauldron.png)
 
 ### Cauldron
 First up is the start of all brews. A Cauldron placed above fire, lava, a magma block or a campfire will allow you to use it for brewing, simply add some water to the cauldron and right click your ingredients in. You'll know the cooking process has started when the item disappears from your hand, and swirling potion particles come out of the cauldron.
@@ -17,7 +19,7 @@ You can right click a clock on the cauldron to see how long it has been cooking 
 ### Distilling
 Second is a brewing stand, with the odd addition of placing 1 glowstone dust in the top slot, like so:
 
-(Image)
+![Distilling setup](./media/Distilling.png)
 
 Brews taken out of the cauldron and put below the glowstone dust will be distilled. (The glowstone dust does not get used up) Every cycle of the downward arrow counts as 1 distill run. The brew will display how many times it has been distilled while hovering over it with you mouse. (1 distill run takes 40 seconds)
 
@@ -28,7 +30,11 @@ Aging is done in barrels, these are simple multi block structures made out of wo
 
 There are 2 versions. a small one which can hold and age 9 brews, and a large one which can hold and age a single chest's worth (27) see examples below: 
 
-(Image)  (Image) (Image)
+
+
+| Small Barrel | Large Barrel | Different kind of wood |
+|:------------:|:------------:|:----------------------:|
+|     ![Small Barrel](./media/Smallbarrel.png)     |     ![Large Barrel](./media/Largebarrel.png)     |          ![Different wood types](./media/2largebarrels.png)          |
 
 As seen the small barrel, is 2x2 made from wooden stairs, with the sign placed on the lower right corner.
 
@@ -41,14 +47,14 @@ knowing when and how long to age a brew for is found out by experimentation thro
 ### Sealing
 Don't forget this critical step if you're planning to sell your brews! Sealing your brews makes it so their recipe details are no longer displayed in its lore. So you're not giving out recipes for free! You can make a sealing station with 4 planks and 2 glass bottles in a crafting table. 
 
-(Image to the side of text)
+![Sealing table crafting recipe](./media/Sealingtable.png)
 
 Just place it down, and put your finished brews in it;s crafting grid for a second or 2. The brew is sealed when there are [brackets] surrounding the stars in the lore. 
 
 ## Starter Brews
 Below are some simple recipes to help you get started in your brewing career. Some may require custom ingredients you'll have to discover first however.
 
-| Brew Name      |                      Cauldron <br> ingredients:Amount                       | Cauldron <br> Time | Distilling <br> Runs | Aging <br> Time | Wood <br> Type |
+| Brew Name      |                      Cauldron <br> ingredients:Amount                       | Cauldron <br> Time | Distilling <br> Runs | Aging <br> Time | Wood <Br> Type |
 | -------------- |:---------------------------------------------------------------------------:|:------------------:|:--------------------:|:---------------:|:--------------:|
 | Tea            |                                Oak Leaves: 4                                |       3 min        |          0           |        0        |       -        |
 | Lemonade       |                        Citrus Juice: 3 <br> Sugar: 8                        |       2 min        |          0           |        0        |       -        |
@@ -82,7 +88,8 @@ When trying to find the correct cooking time for a brew, the best way is to look
 Ultimately though, discovering new brewing recipes is a whole bunch of trial and error, trying out different combinations of ingredients, distilling, aging, wood types, and timings. A master brewer is a patient one.
 To help you start out however, we have provided some information below of all brews in the game. 
 
- ## List of Discoverable Brews.
+<details open>
+  <summary><h2>List of Discoverable Brews</summary>
 
 |  #  |   Type   |             Name              | Ingredient Amount | Texture ID |
 |:---:|:--------:|:-----------------------------:|:-----------------:|:----------:|
@@ -336,8 +343,10 @@ To help you start out however, we have provided some information below of all br
 | 248 |  Player  |     Gamer Gwua Bathwater      |         3         |   800021   |
 | 249 |  Player  |      Okx's Oxeye Oxkick       |         3         |   800022   |
 | 250 |  Player  |    Leo's Orange Creamsicle    |         6         |   800023   |
+</details>
     
-## List of Custom Ingredients.
+<details open>
+  <summary><h2>List of Custom Ingredients.</summary>
 
 |  #  |        Name        | Texture ID |
 |:---:|:------------------:|:----------:|
@@ -407,9 +416,10 @@ To help you start out however, we have provided some information below of all br
 | 64  |      Chlorine      |   200007   |
 | 65  |       Dough        |   200008   |
 | 66  |       Butter       |   200009   |
+</details>
     
-
-## List of Vanilla Ingredients.
+<details open>
+  <summary><h2>List of Vanilla Ingredients.</summary>
 
 |  #  |                 Name                  |
 |:---:|:-------------------------------------:|
@@ -541,4 +551,6 @@ To help you start out however, we have provided some information below of all br
 | 126 |               Obsidian                |
 | 127 |             Birch Button              |
 | 128 |             Pig Spawn Egg             |
-| 129 |        Flowering Azalea Leaves        |    
+| 129 |        Flowering Azalea Leaves        |
+    
+</details>
