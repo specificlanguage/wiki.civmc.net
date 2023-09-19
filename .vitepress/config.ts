@@ -33,7 +33,7 @@ export default defineConfig({
             { text: 'JukeAlert', link: 'pages/plugins/unique/jukealert' },
             { text: 'Bastions', link: 'pages/plugins/unique/bastions' },
             { text: 'Realistic Biomes', link: 'pages/plugins/unique/rb' },
-            { text: 'Chunk Limits', link: 'pages/plugins/fun/chunklimits' },
+            { text: 'Chunk Limits', link: 'pages/plugins/unique/chunklimits' },
           ]},
           { text: 'Fun', link: 'pages/plugins/fun/', collapsed: true, items: [
             { text: 'Item Exchange', link: 'pages/plugins/fun/itemexchange' },

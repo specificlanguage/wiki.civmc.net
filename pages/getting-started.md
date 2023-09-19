@@ -44,7 +44,7 @@ Below are explanations on the plugins CivMC uses, and detailed information about
 * [JukeAlert](./plugins/unique/jukealert) - Surveillance, get to know how to track thieves,griefers and other villains. or learn how to avoid being seen.  
 * [Bastions](./plugins/unique/bastions) - A late game field of protection and control around your city, or military infrastructure.
 * [Realistic Biomes](./plugins/unique/rb) - How to get XP and why you can't grow crops like normal. 
-* [Chunk Limits](./plugins/fun/chunklimits) - Limits how many things you can place in a chunk like redstone.
+* [Chunk Limits](./plugins/unique/chunklimits) - Limits how many things you can place in a chunk like redstone.
 
 #### __Recreational__
 
