@@ -1,5 +1,6 @@
 ---
 title: Getting Started
+description: A guide for all Newfriends
 ---
 
 # Getting Started
