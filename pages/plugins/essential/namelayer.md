@@ -15,7 +15,7 @@ To make a group simply perform the command **/nlcreategroup** (or /nlcg) and the
 
 This is also possible with the GUI which you can access by performing the command **/nl**
 
-![Creating a group using Gui](./media/GuidCreategroup.png)
+![Creating a group using Gui](./media/GuiCreategroup.png)
 
 To start typing in a group use **/g** followed by the group name. 
 
