@@ -7,8 +7,8 @@ hero:
   tagline: Hints, tips, tricks and guides on all things CivMC.
   actions:
     - theme: brand
-      text: Contribute on GitHub
-      link: https://github.com/CivMC/wiki.civmc.net
+      text: Getting Started
+      link: /pages/getting-started
 
 features:
   - title: Getting Started
