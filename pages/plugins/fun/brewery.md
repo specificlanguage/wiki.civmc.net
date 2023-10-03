@@ -299,7 +299,7 @@ To help you start out however, we have provided some information below of all br
 | 205 |  Nation  |        Margaritaville         |         6         |   700046   |
 | 206 |  Nation  |         Vault Breaker         |         2         |   700047   |
 | 207 |  Nation  |         Nuclear Milk          |         4         |   700048   |
-| 208 |  Nation  |       Amboise Red Wine        |         4         |   700049   |
+| 208 |  Nation  |       Amboise Red Wine        |         3         |   700049   |
 | 209 |  Nation  |       Atlas Corp Cuban        |         4         |   700050   |
 | 210 |  Nation  |         Irish whiskey         |         3         |   700051   |
 | 211 |  Nation  |       Imperian Whiskey        |         3         |   700052   |
@@ -319,100 +319,121 @@ To help you start out however, we have provided some information below of all br
 | 225 |  Nation  | Zanarian Razzleberry Delight  |         5         |   700066   |
 | 226 |  Nation  |         Faerie's Kiss         |         4         |   700067   |
 | 227 |  Nation  |       Fruity Tooty Mix        |         4         |   700068   |
-| 228 |  Player  |        Lord Marzenpan         |         2         |   800001   |
-| 229 |  Player  |    SoundTech's Soundcheck     |         3         |   800002   |
-| 230 |  Player  |      WingZero's Wingman       |         3         |   800003   |
-| 231 |  Player  |     Ahri's Touhou Twister     |         3         |   800004   |
-| 232 |  Player  |    Maxoplopy's Beer Garden    |         3         |   800005   |
-| 233 |  Player  |   Diet_Cola's Rum and Cola    |         3         |   800006   |
-| 234 |  Player  |      Icekeeper's Icepick      |         3         |   800007   |
-| 235 |  Player  | ProgrammerDan's Power Coffee  |         1         |   800008   |
-| 236 |  Player  |     TTK2's Closing Speech     |         3         |   800009   |
-| 237 |  Player  |    Infra's Code Injection     |         3         |   800010   |
-| 238 |  Player  | Rourke750's Vermouth Reviver  |         3         |   800011   |
-| 239 |  Player  |  TealNerd's Sneaker Schnapps  |         3         |   800012   |
-| 240 |  Player  |    Eroc's Top of the Rock     |         4         |   800013   |
-| 241 |  Player  |   RedDevel's Devilish Wine    |         3         |   800014   |
-| 242 |  Player  |       Xfier's Firesnap        |         4         |   800015   |
-| 243 |  Player  |      Orinnari's Amaretto      |         3         |   800016   |
-| 244 |  Player  |  Awoo's Git reset Hard Head   |         3         |   800017   |
-| 245 |  Player  |   Gjum's Grape Juice on Ice   |         4         |   800018   |
-| 246 |  Player  |   NoTruePunkin Spiced Mead    |         4         |   800019   |
-| 247 |  Player  |   Kingtell's Royal Absinthe   |         5         |   800020   |
-| 248 |  Player  |     Gamer Gwua Bathwater      |         3         |   800021   |
-| 249 |  Player  |      Okx's Oxeye Oxkick       |         3         |   800022   |
-| 250 |  Player  |    Leo's Orange Creamsicle    |         6         |   800023   |
+| 228 |  Nation  |          Naminė Gira          |         4         |   700069   |
+| 229 |  Nation  |       Griffin Rose Wine       |         3         |   700070   |
+| 230 |  Nation  |    Temporal Tropical Punch    |         4         |   700071   |
+| 231 |  Nation  |         Cluj pálinka          |         3         |   700072   |
+| 232 |  Nation  |       Sealeo Rum Punch        |         3         |   700073   |
+| 233 |  Nation  |     Spicy Vodka Espresso      |         4         |   700074   |
+| 234 |  Nation  |      Griffin Melon Cider      |         2         |   700075   |
+| 235 |  Nation  |        Reggio Surprise        |         4         |   700076   |
+| 236 |  Nation  |           Rosy Rum            |         3         |   700077   |
+| 237 |  Nation  |         Bergburgbier          |         4         |   700078   |
+| 238 |  Nation  |    Brunsvilk Sewage Water     |         5         |   700079   |
+| 239 |  Nation  |      Irian Jungle Coffee      |         4         |   700080   |
+| 240 |  Nation  |         Thorian Cider         |         4         |   700081   |
+| 241 |  Nation  |        Jevoghnya Brew         |         4         |   700082   |
+| 242 |  Nation  |          Greek Fire           |         3         |   700083   |
+| 243 |  Nation  |     Larauve Medicinal Tea     |         4         |   700084   |
+| 244 |  Nation  |            Slushy             |         4         |   700085   |
+| 245 |  Nation  |         Tendie Tonic          |         4         |   700086   |
+| 246 |  Nation  |          Volt Vodka           |         3         |   700087   |
+| 247 |  Nation  |           Aeros Ale           |         3         |   700088   |
+| 248 |  Player  |        Lord Marzenpan         |         2         |   800001   |
+| 249 |  Player  |    SoundTech's Soundcheck     |         3         |   800002   |
+| 250 |  Player  |      WingZero's Wingman       |         3         |   800003   |
+| 251 |  Player  |     Ahri's Touhou Twister     |         3         |   800004   |
+| 252 |  Player  |    Maxoplopy's Beer Garden    |         3         |   800005   |
+| 253 |  Player  |   Diet_Cola's Rum and Cola    |         3         |   800006   |
+| 254 |  Player  |      Icekeeper's Icepick      |         3         |   800007   |
+| 255 |  Player  | ProgrammerDan's Power Coffee  |         1         |   800008   |
+| 256 |  Player  |     TTK2's Closing Speech     |         3         |   800009   |
+| 257 |  Player  |    Infra's Code Injection     |         3         |   800010   |
+| 258 |  Player  | Rourke750's Vermouth Reviver  |         3         |   800011   |
+| 259 |  Player  |  TealNerd's Sneaker Schnapps  |         3         |   800012   |
+| 260 |  Player  |    Eroc's Top of the Rock     |         4         |   800013   |
+| 261 |  Player  |   RedDevel's Devilish Wine    |         3         |   800014   |
+| 262 |  Player  |       Xfier's Firesnap        |         4         |   800015   |
+| 263 |  Player  |      Orinnari's Amaretto      |         3         |   800016   |
+| 264 |  Player  |  Awoo's Git reset Hard Head   |         3         |   800017   |
+| 265 |  Player  |   Gjum's Grape Juice on Ice   |         4         |   800018   |
+| 266 |  Player  |   NoTruePunkin Spiced Mead    |         4         |   800019   |
+| 267 |  Player  |   Kingtell's Royal Absinthe   |         5         |   800020   |
+| 268 |  Player  |     Gamer Gwua Bathwater      |         3         |   800021   |
+| 269 |  Player  |      Okx's Oxeye Oxkick       |         3         |   800022   |
+| 270 |  Player  |    Leo's Orange Creamsicle    |         6         |   800023   |
     
 ## List of Custom Ingredients
 
-|  #  |        Name        | Texture ID |
-|:---:|:------------------:|:----------:|
-|  1  |        Salt        |   100001   |
-|  2  |    Black Pepper    |   100002   |
-|  3  |        Malt        |   100003   |
-|  4  |     Coriander      |   100004   |
-|  5  |      Caramel       |   100005   |
-|  6  |  Molten Chocolate  |   100006   |
-|  7  |    Coffee Beans    |   100007   |
-|  8  |  Vanilla Extract   |   100008   |
-|  9  |    Chili Powder    |   100009   |
-| 10  |    Citrus Juice    |   100010   |
-| 11  |    Cherry Juice    |   100011   |
-| 12  |      Walnuts       |   100012   |
-| 13  |   Carbon Dioxide   |   100013   |
-| 14  |       Yeast        |   100014   |
-| 15  |        Koji        |   100015   |
-| 16  |        Rice        |   100016   |
-| 17  |     Hazelnuts      |   100017   |
-| 18  |   Whipped Cream    |   100018   |
-| 19  |      Wormwood      |   100019   |
-| 20  |       Anise        |   100020   |
-| 21  |       Fennel       |   100021   |
-| 22  |  Sugarcane Juice   |   100022   |
-| 23  |      Fish Oil      |   100023/100043/100044   |
-| 24  |  BlueBerry Juice   |   100024   |
-| 25  |      Cinnamon      |   100025   |
-| 26  |       Banana       |   100026   |
-| 27  |       Thyme        |   100027   |
-| 28  |      Almonds       |   100028   |
-| 29  |    Green Olives    |   100029   |
-| 30  |       Ginger       |   100030   |
-| 31  |      Saffron       |   100031   |
-| 32  |      Ginseng       |   100032   |
-| 33  |    Mint Extract    |   100033   |
-| 34  |    Mango Juice     |   100034   |
-| 35  |     Plum Juice     |   100035   |
-| 36  |    Papaya Juice    |   100036   |
-| 37  |   Beetroot Juice   |   100037   |
-| 38  |       Nutmeg       |   100038   |
-| 39  |       Cloves       |   100039   |
-| 40  |   Tapioca Balls    |   100040   |
-| 41  |       Flour        |   100041   |
-| 42  |       Onion        |   100042   |
-| 43  |    Electricity     |   100045   |
-| 44  |       Tomato       |   100046   |
-| 45  |     Courgette      |   100047   |
-| 46  |       Garlic       |   100048   |
-| 47  |       Celery       |   100049   |
-| 48  |      Noodles       |   100050   |
-| 49  |   Chicken Broth    |   100051   |
-| 50  |     Beef Broth     |   100052   |
-| 51  |     Pork Broth     |   100053   |
-| 52  |      Paprika       |   100054   |
-| 53  |      Oregano       |   100055   |
-| 54  |      Hydrogen      |   100056   |
-| 55  |        Corn        |   100057   |
-| 56  |     Pine Cone      |   100058   |
-| 57  | Exotic Fruit Sirup |   100059   |
-| 58  |       Acorn        |   100060   |
-| 59  |       Helium       |   200001   |
-| 60  |       Carbon       |   200002   |
-| 61  |       Oxygen       |   200003   |
-| 62  |      Nitrogen      |   200004   |
-| 63  |     Phosphorus     |   200006   |
-| 64  |      Chlorine      |   200007   |
-| 65  |       Dough        |   200008   |
-| 66  |       Butter       |   200009   |
+|  #  |        Name        |      Texture ID      |
+|:---:|:------------------:|:--------------------:|
+|  1  |        Salt        |        100001        |
+|  2  |    Black Pepper    |        100002        |
+|  3  |        Malt        |        100003        |
+|  4  |     Coriander      |        100004        |
+|  5  |      Caramel       |        100005        |
+|  6  |  Molten Chocolate  |        100006        |
+|  7  |    Coffee Beans    |        100007        |
+|  8  |  Vanilla Extract   |        100008        |
+|  9  |    Chili Powder    |        100009        |
+| 10  |    Citrus Juice    |        100010        |
+| 11  |    Cherry Juice    |        100011        |
+| 12  |      Walnuts       |        100012        |
+| 13  |   Carbon Dioxide   |        100013        |
+| 14  |       Yeast        |        100014        |
+| 15  |        Koji        |        100015        |
+| 16  |        Rice        |        100016        |
+| 17  |     Hazelnuts      |        100017        |
+| 18  |   Whipped Cream    |        100018        |
+| 19  |      Wormwood      |        100019        |
+| 20  |       Anise        |        100020        |
+| 21  |       Fennel       |        100021        |
+| 22  |  Sugarcane Juice   |        100022        |
+| 23  |      Fish Oil      | 100023/100043/100044 |
+| 24  |  BlueBerry Juice   |        100024        |
+| 25  |      Cinnamon      |        100025        |
+| 26  |       Banana       |        100026        |
+| 27  |       Thyme        |        100027        |
+| 28  |      Almonds       |        100028        |
+| 29  |    Green Olives    |        100029        |
+| 30  |       Ginger       |        100030        |
+| 31  |      Saffron       |        100031        |
+| 32  |      Ginseng       |        100032        |
+| 33  |    Mint Extract    |        100033        |
+| 34  |    Mango Juice     |        100034        |
+| 35  |     Plum Juice     |        100035        |
+| 36  |    Papaya Juice    |        100036        |
+| 37  |   Beetroot Juice   |        100037        |
+| 38  |       Nutmeg       |        100038        |
+| 39  |       Cloves       |        100039        |
+| 40  |   Tapioca Balls    |        100040        |
+| 41  |       Flour        |        100041        |
+| 42  |       Onion        |        100042        |
+| 43  |    Electricity     |        100045        |
+| 44  |       Tomato       |        100046        |
+| 45  |     Courgette      |        100047        |
+| 46  |       Garlic       |        100048        |
+| 47  |       Celery       |        100049        |
+| 48  |      Noodles       |        100050        |
+| 49  |   Chicken Broth    |        100051        |
+| 50  |     Beef Broth     |        100052        |
+| 51  |     Pork Broth     |        100053        |
+| 52  |      Paprika       |        100054        |
+| 53  |      Oregano       |        100055        |
+| 54  |      Hydrogen      |        100056        |
+| 55  |        Corn        |        100057        |
+| 56  |     Pine Cone      |        100058        |
+| 57  | Exotic Fruit Sirup |        100059        |
+| 58  |       Acorn        |        100060        |
+| 59  |      Quinine       |        100061        |
+| 60  |       Helium       |        200001        |
+| 61  |       Carbon       |        200002        |
+| 62  |       Oxygen       |        200003        |
+| 63  |      Nitrogen      |        200004        |
+| 64  |     Phosphorus     |        200006        |
+| 65  |      Chlorine      |        200007        |
+| 66  |       Dough        |        200008        |
+| 67  |       Butter       |        200009        |
     
 ## List of Vanilla Ingredients.
 
@@ -547,4 +568,9 @@ To help you start out however, we have provided some information below of all br
 | 127 |             Birch Button              |
 | 128 |             Pig Spawn Egg             |
 | 129 |        Flowering Azalea Leaves        |
-    
+| 130 |              Spruce Log               |
+| 131 |           Dark Oak Sapling            |
+| 132 |              Gold Nugget              |
+| 133 |             Chicken (raw)             |
+| 134 |              Jungle Log               |
+| 135 |             Lightning Rod             |
