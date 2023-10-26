@@ -90,278 +90,323 @@ To help you start out however, we have provided some information below of all br
 
 ## List of Discoverable Brews
 
-|  #  |   Type   |             Name              | Ingredient Amount | Texture ID |
-|:---:|:--------:|:-----------------------------:|:-----------------:|:----------:|
-|  1  |  Basic   |           Wheatbeer           |         2         |   300001   |
-|  2  |  Basic   |        The Simple Life        |         2         |   300002   |
-|  3  |  Basic   |           Pale Ale            |         2         |   300003   |
-|  4  |  Basic   |          Pale Lager           |         2         |   300004   |
-|  5  |  Basic   |            Pilsner            |         2         |   300005   |
-|  6  |  Basic   |             Cider             |         1         |   300006   |
-|  7  |  Basic   |           Amber Ale           |         3         |   300007   |
-|  8  |  Basic   |           White Ale           |         3         |   300008   |
-|  9  |  Basic   |          Super Bock           |         2         |   300009   |
-| 10  |  Basic   |          White Wine           |         1         |   300010   |
-| 11  |  Basic   |           Red Wine            |         1         |   300011   |
-| 12  |  Basic   |           Albarino            |         2         |   300012   |
-| 13  |  Basic   |      Alvarinho Portugues      |         2         |   300013   |
-| 14  |  Basic   |             Pinot             |         1         |   300014   |
-| 15  |  Basic   |       Sauvignnon Blanc        |         1         |   300015   |
-| 16  |  Basic   |            Chianti            |         2         |   300016   |
-| 17  |  Basic   |           Cabernet            |         1         |   300017   |
-| 18  |  Basic   |            Merlot             |         2         |   300018   |
-| 19  |  Basic   |           Grenache            |         3         |   300019   |
-| 20  |  Basic   |           Champagne           |         2         |   300020   |
-| 21  |  Basic   |           Riesling            |         2         |   300021   |
-| 22  |  Basic   |             Rose              |         2         |   300022   |
-| 23  |  Basic   |            Wiskey             |         2         |   300023   |
-| 24  |  Basic   |            Scotch             |         2         |   300024   |
-| 25  |  Basic   |         White Whiskey         |         3         |   300025   |
-| 26  |  Basic   |         Corn Whiskey          |         2         |   300026   |
-| 27  |  Basic   |       Japanese Whiskey        |         3         |   300027   |
-| 28  |  Basic   |             Sake              |         3         |   300028   |
-| 29  |  Basic   |             Soju              |         3         |   300029   |
-| 30  |  Basic   |             Vodka             |         2         |   300030   |
-| 31  |  Basic   |          Wheat Vodka          |         3         |   300031   |
-| 32  |  Basic   |        Melon Schnapps         |         3         |   300032   |
-| 33  |  Basic   |          Irish Cream          |         3         |   300033   |
-| 34  |  Basic   |             Kefir             |         2         |   300034   |
-| 35  |  Basic   |           Kombucha            |         4         |   300035   |
-| 36  |  Basic   |           Absinthe            |         3         |   300036   |
-| 37  |  Basic   |           Applejack           |         2         |   300037   |
-| 38  |  Basic   |             Basi              |         3         |   300038   |
-| 39  |  Basic   |           Borovicka           |         1         |   300039   |
-| 40  |  Basic   |            Brandy             |         1         |   300040   |
-| 41  |  Basic   |            Cachaca            |         2         |   300041   |
-| 42  |  Basic   |            Chicha             |         5         |   300042   |
-| 43  |  Basic   |              Tea              |         1         |   300043   |
-| 44  |  Basic   |           Black Tea           |         1         |   300044   |
-| 45  |  Basic   |         Chamomile Tea         |         1         |   300045   |
-| 46  |  Basic   |           Earl Grey           |         2         |   300046   |
-| 47  |  Basic   |           Green Tea           |         1         |   300047   |
-| 48  |  Basic   |    A Matcha Made in Heaven    |         2         |   300048   |
-| 49  |  Basic   |           Mate Tea            |         1         |   300049   |
-| 50  |  Basic   |          Redbush Tea          |         1         |   300050   |
-| 51  |  Basic   |     English Breakfast Tea     |         4         |   300051   |
-| 52  |  Basic   |             Milo              |         3         |   300052   |
-| 53  |  Basic   |              Gin              |         3         |   300053   |
-| 54  |  Basic   |          Pigeon Gin           |         4         |   300054   |
-| 55  |  Basic   |             Mead              |         2         |   300055   |
-| 56  |  Basic   |            Metaxa             |         1         |   300056   |
-| 57  |  Basic   |              Rum              |         1         |   300057   |
-| 58  |  Basic   |            Tequila            |         1         |   300058   |
-| 59  |  Basic   |        Tomboy Tequila         |         2         |   300059   |
-| 60  |  Basic   |           Amaretto            |         1         |   300060   |
-| 61  |  Basic   |           Vermouth            |         5         |   300061   |
-| 62  |  Basic   |       Dandelion Liquor        |         4         |   300062   |
-| 63  |  Basic   |    Sam Amogus Pale Pilsen     |         3         |   300063   |
-| 64  |  Basic   |            Marzen             |         3         |   300064   |
-| 65  |  Basic   |           Brown Ale           |         4         |   300065   |
-| 66  |  Basic   |             Stout             |         5         |   300066   |
-| 67  |  Basic   |          Dark Lager           |         4         |   300067   |
-| 68  |  Basic   |          Chardonnay           |         3         |   300068   |
-| 69  |  Basic   |          Celebration          |         2         |   300069   |
-| 70  |  Basic   |        Bourbon Whiskey        |         3         |   300070   |
-| 71  |  Basic   |         Bifrost Vodka         |         5         |   300071   |
-| 72  |  Basic   |        Cherry Liqueur         |         1         |   300072   |
-| 73  |  Basic   |           Ginjinha            |         3         |   300073   |
-| 74  |  Basic   |        Orange Liqueur         |         1         |   300074   |
-| 75  |  Basic   |         Sarsaparilla          |         3         |   300075   |
-| 76  |  Basic   |          Ginger Beer          |         5         |   300076   |
-| 77  |  Basic   |           Lemonade            |         2         |   300077   |
-| 78  |  Basic   |           Coca Soda           |         4         |   300078   |
-| 79  |  Basic   |           Leninade            |         3         |   300079   |
-| 80  |  Basic   |          Limoncello           |         3         |   300080   |
-| 81  |  Basic   |        Creme de menthe        |         3         |   300081   |
-| 82  |  Basic   |        Chocolate Milk         |         3         |   300082   |
-| 83  |  Basic   |         Energy Drink          |         2         |   300083   |
-| 84  |  Basic   |           Espresso            |         1         |   300084   |
-| 85  |  Basic   |           Americano           |         1         |   300085   |
-| 86  |  Basic   |             Latte             |         2         |   300086   |
-| 87  |  Basic   |             Mocha             |         4         |   300087   |
-| 88  |  Basic   |           Iced Tea            |         2         |   300088   |
-| 89  |  Basic   |          Iced Coffee          |         4         |   300089   |
-| 90  |  Basic   |           Hot Coco            |         5         |   300090   |
-| 91  |  Basic   |           Olive Oil           |         1         |   300091   |
-| 92  |  Basic   |        Beetroot Vodka         |         2         |   300092   |
-| 93  |  Basic   |        Melon Iced Tea         |         3         |   300093   |
-| 94  |  Basic   |        Mango Schnapps         |         4         |   300094   |
-| 95  |  Basic   |        Papaya Schnapps        |         4         |   300095   |
-| 96  |  Basic   |      Vegetable Smoothie       |         3         |   300096   |
-| 97  |  Basic   |      Pumpkin Spice Latte      |         8         |   300097   |
-| 98  |  Basic   |     Chocolate Apple Cider     |         3         |   300098   |
-| 99  |  Basic   |        Cannonball Rum         |         3         |   300099   |
-| 100 |  Basic   |           Frog Grog           |         4         |   300100   |
-| 101 |  Basic   |           Dr PVPer            |         4         |   300101   |
-| 102 |  Basic   |          Cough Syrup          |         2         |   300102   |
-| 103 |  Basic   |        The Gay Agenda         |         6         |   300103   |
-| 104 |  Basic   |             Tonic             |         2         |   300104   |
-| 105 |   Food   |        Vegetable Soup         |         5         |   400001   |
-| 106 |   Food   |          Ratatouille          |         4         |   400002   |
-| 107 |   Food   |             Laksa             |         7         |   400003   |
-| 108 |   Food   |          Minestrone           |         7         |   400004   |
-| 109 |   Food   |              Pho              |        12         |   400005   |
-| 110 |   Food   |      Chicken Noodle Soup      |        10         |   400006   |
-| 111 |   Food   |         Dumpling Soup         |         9         |   400007   |
-| 112 |   Food   |         Corn Chowder          |        11         |   400008   |
-| 113 |   Food   |            Goulash            |         7         |   400009   |
-| 114 |   Food   |        Tonkatsu Ramen         |         5         |   400010   |
-| 115 |   Food   |            Borscht            |         8         |   400011   |
-| 116 |   Food   |          Balti Gosht          |        12         |   400012   |
-| 117 |   Food   |         Rice Porridge         |         2         |   400013   |
-| 118 |   Food   |         Cranberry Pie         |         8         |   400014   |
-| 119 |   Food   |           Fish Soup           |         9         |   400015   |
-| 120 |   Food   |        Poached Salmon         |         6         |   400016   |
-| 121 |   Food   |            Marmite            |         3         |   400017   |
-| 122 |   Food   |        Mais con Hielo         |         4         |   400018   |
-| 123 |   Food   |      Mediterranean Medly      |        11         |   400019   |
-| 124 | Cocktail |            Martini            |         3         |   500001   |
-| 125 | Cocktail |       Hunters Digestif        |         2         |   500002   |
-| 126 | Cocktail |       Tropical Cocktail       |         3         |   500003   |
-| 127 | Cocktail |          Raider Fuel          |         2         |   500004   |
-| 128 | Cocktail |          Redcoat Rum          |         5         |   500005   |
-| 129 | Cocktail |          Spicy Juice          |         2         |   500006   |
-| 130 | Cocktail |            Zombie             |         2         |   500007   |
-| 131 | Cocktail |     5 o' Block Somewhere      |         2         |   500008   |
-| 132 | Cocktail |             Lean              |         2         |   500009   |
-| 133 | Cocktail |          Bubble Tea           |         4         |   500010   |
-| 134 | Cocktail |        Genderfluid Gin        |         3         |   500011   |
-| 135 | Cocktail | Trans Rights Are Human Rights |         3         |   500012   |
-| 136 | Cocktail |          Bees Knees           |         3         |   500013   |
-| 137 | Cocktail |         Cherry Spritz         |         2         |   500014   |
-| 138 | Cocktail |       Luck of the Irish       |         2         |   500015   |
-| 139 | Cocktail |  Pan Galactic Gargle Blaster  |         5         |   500016   |
-| 140 |   Drug   |            Cyanide            |         3         |   600001   |
-| 141 |   Drug   |           Cannabis            |         1         |   600002   |
-| 142 |   Drug   |             Meth              |         3         |   600003   |
-| 143 |   Drug   |           Blue Meth           |         3         |   600004   |
-| 144 |   Drug   |            Heroin             |         5         |   600005   |
-| 145 |   Drug   |           Oestrogen           |         4         |   600006   |
-| 146 |   Drug   |           Caffeine            |         5         |   600007   |
-| 147 |   Drug   |          Ivermectin           |         3         |   600008   |
-| 148 |   Drug   |              DMT              |         4         |   600009   |
-| 149 |   Drug   |             Xanax             |         5         |   600010   |
-| 150 |   Drug   |           Steroids            |         1         |   600011   |
-| 151 |   Drug   |         Testosterone          |         4         |   600012   |
-| 152 |   Drug   |            Vicodin            |         5         |   600013   |
-| 153 |   Drug   |            Yakult             |         6         |   600014   |
-| 154 |   Drug   |            Cocaine            |         5         |   600015   |
-| 155 |   Drug   |             Speed             |         4         |   600016   |
-| 156 |   Drug   |             NAD+              |         6         |   600017   |
-| 157 |   Drug   |          Epinephrine          |         5         |   600018   |
-| 158 |   Drug   |           Firefoam            |         4         |   600019   |
-| 159 |   Drug   |         Nitroglycerin         |         4         |   600020   |
-| 160 |  Nation  |       Icenian Pale Ale        |         4         |   700001   |
-| 161 |  Nation  |          Dalgon Pale          |         3         |   700002   |
-| 162 |  Nation  |         Pacem Pilsner         |         3         |   700003   |
-| 163 |  Nation  |        Augustan Cider         |         2         |   700004   |
-| 164 |  Nation  |       Wolken White Ale        |         5         |   700005   |
-| 165 |  Nation  |       Southshire Stout        |         6         |   700006   |
-| 166 |  Nation  |   Septembrian Summer Breeze   |         2         |   700007   |
-| 167 |  Nation  |    Commonwealth Chardonnay    |         4         |   700008   |
-| 168 |  Nation  |       Cortesian Chianti       |         3         |   700009   |
-| 169 |  Nation  |        Cabernet Sovian        |         2         |   700010   |
-| 170 |  Nation  |         Lusitan Wine          |         3         |   700011   |
-| 171 |  Nation  |    Fempire Sparkling Rose     |         4         |   700012   |
-| 172 |  Nation  |     Nara Pufferfish Wine      |         4         |   700013   |
-| 173 |  Nation  |       CCTT Pumpkin Wine       |         3         |   700014   |
-| 174 |  Nation  |           Dirt Wine           |         3         |   700015   |
-| 175 |  Nation  |         Pavian Wiskey         |         4         |   700016   |
-| 176 |  Nation  |          Fembourbon           |         4         |   700017   |
-| 177 |  Nation  |     Griffin Gold Whiskey      |         4         |   700018   |
-| 178 |  Nation  |        Nara no Uisuki         |         4         |   700019   |
-| 179 |  Nation  |    Gensokyo no Ginjo Sake     |         3         |   700020   |
-| 180 |  Nation  |          Venne Vodka          |         4         |   700021   |
-| 181 |  Nation  |   Winterbourne Wheat Vodka    |         4         |   700022   |
-| 182 |  Nation  |       Estalian Schnapps       |         5         |   700023   |
-| 183 |  Nation  |    Southshire Cream Liquer    |         5         |   700024   |
-| 184 |  Nation  |            Kubucha            |         5         |   700025   |
-| 185 |  Nation  |           Yoahpple            |         3         |   700026   |
-| 186 |  Nation  |           Lambasiat           |         4         |   700027   |
-| 187 |  Nation  |       Chicha Alchuahtl        |         6         |   700028   |
-| 188 |  Nation  |     Banana Republic Mead      |         4         |   700029   |
-| 189 |  Nation  |           Vennessy            |         3         |   700030   |
-| 190 |  Nation  |       Smiles of T'shola       |         3         |   700031   |
-| 191 |  Nation  |        Dandedanzilonia        |         5         |   700032   |
-| 192 |  Nation  |         JaegerMaester         |         8         |   700033   |
-| 193 |  Nation  |    Shaken Southsire Sunset    |         4         |   700034   |
-| 194 |  Nation  |         Pacem Proper          |         4         |   700035   |
-| 195 |  Nation  |       Venne Cream Soda        |         4         |   700036   |
-| 196 |  Nation  |      Valyrian Dragonwine      |         4         |   700037   |
-| 197 |  Nation  | Wheatistan Whimsical Whiskey  |         3         |   700038   |
-| 198 |  Nation  |       Danzilonian Wine        |         4         |   700039   |
-| 199 |  Nation  |   Butternut Pumpkin Bourbon   |         6         |   700040   |
-| 200 |  Nation  |   New Phoenix Fire Whiskey    |         3         |   700041   |
-| 201 |  Nation  |        Pridelands Mead        |         3         |   700042   |
-| 202 |  Nation  |       Acadian Absinthe        |         4         |   700043   |
-| 203 |  Nation  |      Icenian Icebreaker       |         4         |   700044   |
-| 204 |  Nation  |       CivMarket Chowder       |         6         |   700045   |
-| 205 |  Nation  |        Margaritaville         |         6         |   700046   |
-| 206 |  Nation  |         Vault Breaker         |         2         |   700047   |
-| 207 |  Nation  |         Nuclear Milk          |         4         |   700048   |
-| 208 |  Nation  |       Amboise Red Wine        |         3         |   700049   |
-| 209 |  Nation  |       Atlas Corp Cuban        |         4         |   700050   |
-| 210 |  Nation  |         Irish whiskey         |         3         |   700051   |
-| 211 |  Nation  |       Imperian Whiskey        |         3         |   700052   |
-| 212 |  Nation  |         Warmian Nitro         |         3         |   700053   |
-| 213 |  Nation  |        Shiroyama Sake         |         4         |   700054   |
-| 214 |  Nation  |              Ixi              |         2         |   700055   |
-| 215 |  Nation  |     Imperian Carrot Juice     |         2         |   700056   |
-| 216 |  Nation  |         Angmar Vodka          |         3         |   700057   |
-| 217 |  Nation  |    Mint Chocolate Martini     |         4         |   700058   |
-| 218 |  Nation  |          Reggio Rum           |         5         |   700059   |
-| 219 |  Nation  |    The Shitter's Brown Ale    |         3         |   700060   |
-| 220 |  Nation  |    Temporal Sweet Red Wine    |         4         |   700061   |
-| 221 |  Nation  |         Secret Sprite         |         4         |   700062   |
-| 222 |  Nation  |         Boar Bourbon          |         3         |   700063   |
-| 223 |  Nation  |           Joja Cola           |         4         |   700064   |
-| 224 |  Nation  |       Brunsvilk Jenever       |         5         |   700065   |
-| 225 |  Nation  | Zanarian Razzleberry Delight  |         5         |   700066   |
-| 226 |  Nation  |         Faerie's Kiss         |         4         |   700067   |
-| 227 |  Nation  |       Fruity Tooty Mix        |         4         |   700068   |
-| 228 |  Nation  |          Naminė Gira          |         4         |   700069   |
-| 229 |  Nation  |       Griffin Rose Wine       |         3         |   700070   |
-| 230 |  Nation  |    Temporal Tropical Punch    |         4         |   700071   |
-| 231 |  Nation  |         Cluj pálinka          |         3         |   700072   |
-| 232 |  Nation  |       Sealeo Rum Punch        |         3         |   700073   |
-| 233 |  Nation  |     Spicy Vodka Espresso      |         4         |   700074   |
-| 234 |  Nation  |      Griffin Melon Cider      |         2         |   700075   |
-| 235 |  Nation  |        Reggio Surprise        |         4         |   700076   |
-| 236 |  Nation  |           Rosy Rum            |         3         |   700077   |
-| 237 |  Nation  |         Bergburgbier          |         4         |   700078   |
-| 238 |  Nation  |    Brunsvilk Sewage Water     |         5         |   700079   |
-| 239 |  Nation  |      Irian Jungle Coffee      |         4         |   700080   |
-| 240 |  Nation  |         Thorian Cider         |         4         |   700081   |
-| 241 |  Nation  |        Jevoghnya Brew         |         4         |   700082   |
-| 242 |  Nation  |          Greek Fire           |         3         |   700083   |
-| 243 |  Nation  |     Larauve Medicinal Tea     |         4         |   700084   |
-| 244 |  Nation  |            Slushy             |         4         |   700085   |
-| 245 |  Nation  |         Tendie Tonic          |         4         |   700086   |
-| 246 |  Nation  |          Volt Vodka           |         3         |   700087   |
-| 247 |  Nation  |           Aeros Ale           |         3         |   700088   |
-| 248 |  Player  |        Lord Marzenpan         |         2         |   800001   |
-| 249 |  Player  |    SoundTech's Soundcheck     |         3         |   800002   |
-| 250 |  Player  |      WingZero's Wingman       |         3         |   800003   |
-| 251 |  Player  |     Ahri's Touhou Twister     |         3         |   800004   |
-| 252 |  Player  |    Maxoplopy's Beer Garden    |         3         |   800005   |
-| 253 |  Player  |   Diet_Cola's Rum and Cola    |         3         |   800006   |
-| 254 |  Player  |      Icekeeper's Icepick      |         3         |   800007   |
-| 255 |  Player  | ProgrammerDan's Power Coffee  |         1         |   800008   |
-| 256 |  Player  |     TTK2's Closing Speech     |         3         |   800009   |
-| 257 |  Player  |    Infra's Code Injection     |         3         |   800010   |
-| 258 |  Player  | Rourke750's Vermouth Reviver  |         3         |   800011   |
-| 259 |  Player  |  TealNerd's Sneaker Schnapps  |         3         |   800012   |
-| 260 |  Player  |    Eroc's Top of the Rock     |         4         |   800013   |
-| 261 |  Player  |   RedDevel's Devilish Wine    |         3         |   800014   |
-| 262 |  Player  |       Xfier's Firesnap        |         4         |   800015   |
-| 263 |  Player  |      Orinnari's Amaretto      |         3         |   800016   |
-| 264 |  Player  |  Awoo's Git reset Hard Head   |         3         |   800017   |
-| 265 |  Player  |   Gjum's Grape Juice on Ice   |         4         |   800018   |
-| 266 |  Player  |   NoTruePunkin Spiced Mead    |         4         |   800019   |
-| 267 |  Player  |   Kingtell's Royal Absinthe   |         5         |   800020   |
-| 268 |  Player  |     Gamer Gwua Bathwater      |         3         |   800021   |
-| 269 |  Player  |      Okx's Oxeye Oxkick       |         3         |   800022   |
-| 270 |  Player  |    Leo's Orange Creamsicle    |         6         |   800023   |
+|   Type   |             Name              | Ingredient Amount | Texture ID |
+|:--------:|:-----------------------------:|:-----------------:|:----------:|
+|  Basic   |           Wheatbeer           |         2         |   300001   |
+|  Basic   |        The Simple Life        |         2         |   300002   |
+|  Basic   |           Pale Ale            |         2         |   300003   |
+|  Basic   |          Pale Lager           |         2         |   300004   |
+|  Basic   |            Pilsner            |         2         |   300005   |
+|  Basic   |             Cider             |         1         |   300006   |
+|  Basic   |           Amber Ale           |         3         |   300007   |
+|  Basic   |           White Ale           |         3         |   300008   |
+|  Basic   |          Super Bock           |         2         |   300009   |
+|  Basic   |          White Wine           |         1         |   300010   |
+|  Basic   |           Red Wine            |         1         |   300011   |
+|  Basic   |           Albarino            |         2         |   300012   |
+|  Basic   |      Alvarinho Portugues      |         2         |   300013   |
+|  Basic   |             Pinot             |         1         |   300014   |
+|  Basic   |       Sauvignnon Blanc        |         1         |   300015   |
+|  Basic   |            Chianti            |         2         |   300016   |
+|  Basic   |           Cabernet            |         1         |   300017   |
+|  Basic   |            Merlot             |         2         |   300018   |
+|  Basic   |           Grenache            |         3         |   300019   |
+|  Basic   |           Champagne           |         2         |   300020   |
+|  Basic   |           Riesling            |         2         |   300021   |
+|  Basic   |             Rose              |         2         |   300022   |
+|  Basic   |            Wiskey             |         2         |   300023   |
+|  Basic   |            Scotch             |         2         |   300024   |
+|  Basic   |         White Whiskey         |         3         |   300025   |
+|  Basic   |         Corn Whiskey          |         2         |   300026   |
+|  Basic   |       Japanese Whiskey        |         3         |   300027   |
+|  Basic   |             Sake              |         3         |   300028   |
+|  Basic   |             Soju              |         3         |   300029   |
+|  Basic   |             Vodka             |         2         |   300030   |
+|  Basic   |          Wheat Vodka          |         3         |   300031   |
+|  Basic   |        Melon Schnapps         |         3         |   300032   |
+|  Basic   |          Irish Cream          |         3         |   300033   |
+|  Basic   |             Kefir             |         2         |   300034   |
+|  Basic   |           Kombucha            |         4         |   300035   |
+|  Basic   |           Absinthe            |         3         |   300036   |
+|  Basic   |           Applejack           |         2         |   300037   |
+|  Basic   |             Basi              |         3         |   300038   |
+|  Basic   |           Borovicka           |         1         |   300039   |
+|  Basic   |            Brandy             |         1         |   300040   |
+|  Basic   |            Cachaca            |         2         |   300041   |
+|  Basic   |            Chicha             |         5         |   300042   |
+|  Basic   |              Tea              |         1         |   300043   |
+|  Basic   |           Black Tea           |         1         |   300044   |
+|  Basic   |         Chamomile Tea         |         1         |   300045   |
+|  Basic   |           Earl Grey           |         2         |   300046   |
+|  Basic   |           Green Tea           |         1         |   300047   |
+|  Basic   |    A Matcha Made in Heaven    |         2         |   300048   |
+|  Basic   |           Mate Tea            |         1         |   300049   |
+|  Basic   |          Redbush Tea          |         1         |   300050   |
+|  Basic   |     English Breakfast Tea     |         4         |   300051   |
+|  Basic   |             Milo              |         3         |   300052   |
+|  Basic   |              Gin              |         3         |   300053   |
+|  Basic   |          Pigeon Gin           |         4         |   300054   |
+|  Basic   |             Mead              |         2         |   300055   |
+|  Basic   |            Metaxa             |         1         |   300056   |
+|  Basic   |              Rum              |         1         |   300057   |
+|  Basic   |            Tequila            |         1         |   300058   |
+|  Basic   |        Tomboy Tequila         |         2         |   300059   |
+|  Basic   |           Amaretto            |         1         |   300060   |
+|  Basic   |           Vermouth            |         5         |   300061   |
+|  Basic   |       Dandelion Liquor        |         4         |   300062   |
+|  Basic   |    Sam Amogus Pale Pilsen     |         3         |   300063   |
+|  Basic   |            Marzen             |         3         |   300064   |
+|  Basic   |           Brown Ale           |         4         |   300065   |
+|  Basic   |             Stout             |         5         |   300066   |
+|  Basic   |          Dark Lager           |         4         |   300067   |
+|  Basic   |          Chardonnay           |         3         |   300068   |
+|  Basic   |          Celebration          |         2         |   300069   |
+|  Basic   |        Bourbon Whiskey        |         3         |   300070   |
+|  Basic   |         Bifrost Vodka         |         5         |   300071   |
+|  Basic   |        Cherry Liqueur         |         1         |   300072   |
+|  Basic   |           Ginjinha            |         3         |   300073   |
+|  Basic   |        Orange Liqueur         |         1         |   300074   |
+|  Basic   |         Sarsaparilla          |         3         |   300075   |
+|  Basic   |          Ginger Beer          |         5         |   300076   |
+|  Basic   |           Lemonade            |         2         |   300077   |
+|  Basic   |           Coca Soda           |         4         |   300078   |
+|  Basic   |           Leninade            |         3         |   300079   |
+|  Basic   |          Limoncello           |         3         |   300080   |
+|  Basic   |        Creme de menthe        |         3         |   300081   |
+|  Basic   |        Chocolate Milk         |         3         |   300082   |
+|  Basic   |         Energy Drink          |         2         |   300083   |
+|  Basic   |           Espresso            |         1         |   300084   |
+|  Basic   |           Americano           |         1         |   300085   |
+|  Basic   |             Latte             |         2         |   300086   |
+|  Basic   |             Mocha             |         4         |   300087   |
+|  Basic   |           Iced Tea            |         2         |   300088   |
+|  Basic   |          Iced Coffee          |         4         |   300089   |
+|  Basic   |           Hot Coco            |         5         |   300090   |
+|  Basic   |           Olive Oil           |         1         |   300091   |
+|  Basic   |        Beetroot Vodka         |         2         |   300092   |
+|  Basic   |        Melon Iced Tea         |         3         |   300093   |
+|  Basic   |        Mango Schnapps         |         4         |   300094   |
+|  Basic   |        Papaya Schnapps        |         4         |   300095   |
+|  Basic   |      Vegetable Smoothie       |         3         |   300096   |
+|  Basic   |      Pumpkin Spice Latte      |         8         |   300097   |
+|  Basic   |     Chocolate Apple Cider     |         3         |   300098   |
+|  Basic   |        Cannonball Rum         |         3         |   300099   |
+|  Basic   |           Frog Grog           |         4         |   300100   |
+|  Basic   |           Dr PVPer            |         4         |   300101   |
+|  Basic   |          Cough Syrup          |         2         |   300102   |
+|  Basic   |        The Gay Agenda         |         6         |   300103   |
+|  Basic   |             Tonic             |         2         |   300104   |
+|  Basic   |        Witch's Tongue         |         4         |   300105   |
+|  Basic   |           Tombstone           |         4         |   300106   |
+|  Basic   |          BloodWeiser          |         4         |   300107   |
+|  Basic   |     De-Coffin-Ated Curse      |         3         |   300108   |
+|  Basic   |            Phantom            |         4         |   300109   |
+|   Food   |        Vegetable Soup         |         5         |   400001   |
+|   Food   |          Ratatouille          |         4         |   400002   |
+|   Food   |             Laksa             |         7         |   400003   |
+|   Food   |          Minestrone           |         7         |   400004   |
+|   Food   |              Pho              |        12         |   400005   |
+|   Food   |      Chicken Noodle Soup      |        10         |   400006   |
+|   Food   |         Dumpling Soup         |         9         |   400007   |
+|   Food   |         Corn Chowder          |        11         |   400008   |
+|   Food   |            Goulash            |         7         |   400009   |
+|   Food   |        Tonkatsu Ramen         |         5         |   400010   |
+|   Food   |            Borscht            |         8         |   400011   |
+|   Food   |          Balti Gosht          |        12         |   400012   |
+|   Food   |         Rice Porridge         |         2         |   400013   |
+|   Food   |         Cranberry Pie         |         8         |   400014   |
+|   Food   |           Fish Soup           |         9         |   400015   |
+|   Food   |        Poached Salmon         |         6         |   400016   |
+|   Food   |            Marmite            |         3         |   400017   |
+|   Food   |        Mais con Hielo         |         4         |   400018   |
+|   Food   |      Mediterranean Medly      |        11         |   400019   |
+|   Food   |        Halloween Candy        |         3         |   400020   |
+|   Food   |            Cheese             |         3         |   400021   |
+| Cocktail |            Martini            |         3         |   500001   |
+| Cocktail |       Hunters Digestif        |         2         |   500002   |
+| Cocktail |       Tropical Cocktail       |         3         |   500003   |
+| Cocktail |          Raider Fuel          |         2         |   500004   |
+| Cocktail |          Redcoat Rum          |         5         |   500005   |
+| Cocktail |          Spicy Juice          |         2         |   500006   |
+| Cocktail |            Zombie             |         2         |   500007   |
+| Cocktail |     5 o' Block Somewhere      |         2         |   500008   |
+| Cocktail |             Lean              |         2         |   500009   |
+| Cocktail |          Bubble Tea           |         4         |   500010   |
+| Cocktail |        Genderfluid Gin        |         3         |   500011   |
+| Cocktail | Trans Rights Are Human Rights |         3         |   500012   |
+| Cocktail |          Bees Knees           |         3         |   500013   |
+| Cocktail |         Cherry Spritz         |         2         |   500014   |
+| Cocktail |       Luck of the Irish       |         2         |   500015   |
+| Cocktail |  Pan Galactic Gargle Blaster  |         5         |   500016   |
+|   Drug   |            Cyanide            |         3         |   600001   |
+|   Drug   |           Cannabis            |         1         |   600002   |
+|   Drug   |             Meth              |         3         |   600003   |
+|   Drug   |           Blue Meth           |         3         |   600004   |
+|   Drug   |            Heroin             |         5         |   600005   |
+|   Drug   |           Oestrogen           |         4         |   600006   |
+|   Drug   |           Caffeine            |         5         |   600007   |
+|   Drug   |          Ivermectin           |         3         |   600008   |
+|   Drug   |              DMT              |         4         |   600009   |
+|   Drug   |             Xanax             |         5         |   600010   |
+|   Drug   |           Steroids            |         1         |   600011   |
+|   Drug   |         Testosterone          |         4         |   600012   |
+|   Drug   |            Vicodin            |         5         |   600013   |
+|   Drug   |            Yakult             |         6         |   600014   |
+|   Drug   |            Cocaine            |         5         |   600015   |
+|   Drug   |             Speed             |         4         |   600016   |
+|   Drug   |             NAD+              |         6         |   600017   |
+|   Drug   |          Epinephrine          |         5         |   600018   |
+|   Drug   |           Firefoam            |         4         |   600019   |
+|   Drug   |         Nitroglycerin         |         4         |   600020   |
+|  Nation  |       Icenian Pale Ale        |         4         |   700001   |
+|  Nation  |          Dalgon Pale          |         3         |   700002   |
+|  Nation  |         Pacem Pilsner         |         3         |   700003   |
+|  Nation  |        Augustan Cider         |         2         |   700004   |
+|  Nation  |       Wolken White Ale        |         5         |   700005   |
+|  Nation  |       Southshire Stout        |         6         |   700006   |
+|  Nation  |   Septembrian Summer Breeze   |         2         |   700007   |
+|  Nation  |    Commonwealth Chardonnay    |         4         |   700008   |
+|  Nation  |       Cortesian Chianti       |         3         |   700009   |
+|  Nation  |        Cabernet Sovian        |         2         |   700010   |
+|  Nation  |         Lusitan Wine          |         3         |   700011   |
+|  Nation  |    Fempire Sparkling Rose     |         4         |   700012   |
+|  Nation  |     Nara Pufferfish Wine      |         4         |   700013   |
+|  Nation  |       CCTT Pumpkin Wine       |         3         |   700014   |
+|  Nation  |           Dirt Wine           |         3         |   700015   |
+|  Nation  |         Pavian Wiskey         |         4         |   700016   |
+|  Nation  |          Fembourbon           |         4         |   700017   |
+|  Nation  |     Griffin Gold Whiskey      |         4         |   700018   |
+|  Nation  |        Nara no Uisuki         |         4         |   700019   |
+|  Nation  |    Gensokyo no Ginjo Sake     |         3         |   700020   |
+|  Nation  |          Venne Vodka          |         4         |   700021   |
+|  Nation  |   Winterbourne Wheat Vodka    |         4         |   700022   |
+|  Nation  |       Estalian Schnapps       |         5         |   700023   |
+|  Nation  |    Southshire Cream Liquer    |         5         |   700024   |
+|  Nation  |            Kubucha            |         5         |   700025   |
+|  Nation  |           Yoahpple            |         3         |   700026   |
+|  Nation  |           Lambasiat           |         4         |   700027   |
+|  Nation  |       Chicha Alchuahtl        |         6         |   700028   |
+|  Nation  |     Banana Republic Mead      |         4         |   700029   |
+|  Nation  |           Vennessy            |         3         |   700030   |
+|  Nation  |       Smiles of T'shola       |         3         |   700031   |
+|  Nation  |        Dandedanzilonia        |         5         |   700032   |
+|  Nation  |         JaegerMaester         |         8         |   700033   |
+|  Nation  |    Shaken Southsire Sunset    |         4         |   700034   |
+|  Nation  |         Pacem Proper          |         4         |   700035   |
+|  Nation  |       Venne Cream Soda        |         4         |   700036   |
+|  Nation  |      Valyrian Dragonwine      |         4         |   700037   |
+|  Nation  | Wheatistan Whimsical Whiskey  |         3         |   700038   |
+|  Nation  |       Danzilonian Wine        |         4         |   700039   |
+|  Nation  |   Butternut Pumpkin Bourbon   |         6         |   700040   |
+|  Nation  |   New Phoenix Fire Whiskey    |         3         |   700041   |
+|  Nation  |        Pridelands Mead        |         3         |   700042   |
+|  Nation  |       Acadian Absinthe        |         4         |   700043   |
+|  Nation  |      Icenian Icebreaker       |         4         |   700044   |
+|  Nation  |       CivMarket Chowder       |         6         |   700045   |
+|  Nation  |        Margaritaville         |         6         |   700046   |
+|  Nation  |         Vault Breaker         |         2         |   700047   |
+|  Nation  |         Nuclear Milk          |         4         |   700048   |
+|  Nation  |       Amboise Red Wine        |         3         |   700049   |
+|  Nation  |       Atlas Corp Cuban        |         4         |   700050   |
+|  Nation  |         Irish whiskey         |         3         |   700051   |
+|  Nation  |       Imperian Whiskey        |         3         |   700052   |
+|  Nation  |         Warmian Nitro         |         3         |   700053   |
+|  Nation  |        Shiroyama Sake         |         4         |   700054   |
+|  Nation  |              Ixi              |         2         |   700055   |
+|  Nation  |     Imperian Carrot Juice     |         2         |   700056   |
+|  Nation  |         Angmar Vodka          |         3         |   700057   |
+|  Nation  |    Mint Chocolate Martini     |         4         |   700058   |
+|  Nation  |          Reggio Rum           |         5         |   700059   |
+|  Nation  |    The Shitter's Brown Ale    |         3         |   700060   |
+|  Nation  |    Temporal Sweet Red Wine    |         4         |   700061   |
+|  Nation  |         Secret Sprite         |         4         |   700062   |
+|  Nation  |         Boar Bourbon          |         3         |   700063   |
+|  Nation  |           Joja Cola           |         4         |   700064   |
+|  Nation  |       Brunsvilk Jenever       |         5         |   700065   |
+|  Nation  | Zanarian Razzleberry Delight  |         5         |   700066   |
+|  Nation  |         Faerie's Kiss         |         4         |   700067   |
+|  Nation  |       Fruity Tooty Mix        |         4         |   700068   |
+|  Nation  |          Naminė Gira          |         4         |   700069   |
+|  Nation  |       Griffin Rose Wine       |         3         |   700070   |
+|  Nation  |    Temporal Tropical Punch    |         4         |   700071   |
+|  Nation  |         Cluj pálinka          |         3         |   700072   |
+|  Nation  |       Sealeo Rum Punch        |         3         |   700073   |
+|  Nation  |     Spicy Vodka Espresso      |         4         |   700074   |
+|  Nation  |      Griffin Melon Cider      |         2         |   700075   |
+|  Nation  |        Reggio Surprise        |         4         |   700076   |
+|  Nation  |           Rosy Rum            |         3         |   700077   |
+|  Nation  |         Bergburgbier          |         4         |   700078   |
+|  Nation  |    Brunsvilk Sewage Water     |         5         |   700079   |
+|  Nation  |      Irian Jungle Coffee      |         4         |   700080   |
+|  Nation  |         Thorian Cider         |         4         |   700081   |
+|  Nation  |        Jevoghnya Brew         |         4         |   700082   |
+|  Nation  |          Greek Fire           |         3         |   700083   |
+|  Nation  |     Larauve Medicinal Tea     |         4         |   700084   |
+|  Nation  |            Slushy             |         4         |   700085   |
+|  Nation  |         Tendie Tonic          |         4         |   700086   |
+|  Nation  |          Volt Vodka           |         3         |   700087   |
+|  Nation  |           Aeros Ale           |         3         |   700088   |
+|  Nation  |          VB Longneck          |         3         |   700089   |
+|  Nation  |         Gin of Rails          |         3         |   700090   |
+|  Nation  |         Kobeerlinski          |         3         |   700091   |
+|  Nation  |      Frihavn Juniper Ale      |         4         |   700092   |
+|  Nation  |           Fen Fyool           |         5         |   700093   |
+|  Nation  |       Burning Blizzard        |         4         |   700094   |
+|  Nation  |      Larauve Bubble Tea       |         4         |   700095   |
+|  Nation  |   Winterbourne Lamb Knuckle   |         3         |   700096   |
+|  Nation  |           Winterale           |         3         |   700097   |
+|  Nation  |     Winterbourne Blue Ice     |         3         |   700098   |
+|  Nation  |  Banana Republic Pickleback   |         2         |   700099   |
+|  Nation  |    Meracydian Mulled Cider    |         7         |   700100   |
+|  Nation  |    Valar Winter Cheesecake    |         7         |   700101   |
+|  Nation  |        Meracydian Mule        |         5         |   700102   |
+|  Nation  |     Valar Steamfired Soda     |         6         |   700103   |
+|  Nation  |       Larauve Shortcut        |         5         |   700104   |
+|  Nation  |           Vald Mead           |         4         |   700105   |
+|  Nation  |             Donut             |         5         |   700106   |
+|  Nation  |          Gmall Grog           |         4         |   700107   |
+|  Nation  |         Doom Delight          |         5         |   700108   |
+|  Nation  |    Grenada Club White Rum     |         3         |   700109   |
+|  Nation  |   Cranberry Juice Cocktail    |         4         |   700110   |
+|  Nation  |     Walloon Guard Whiskey     |         3         |   700111   |
+|  Nation  |      Line Infantry Lager      |         3         |   700112   |
+|  Nation  |       Sacramental Wine        |         2         |   700113   |
+|  Nation  |  Security Enhancement Cider   |         3         |   700114   |
+|  Nation  |      Greenfaith Goulash       |         4         |   700115   |
+|  Nation  |      Trailblazer's Toddy      |         4         |   700116   |
+|  Nation  |            Icaraki            |         2         |   700117   |
+|  Nation  |        Nidaros Akevitt        |         2         |   700118   |
+|  Nation  |           Warm Milk           |         2         |   700119   |
+|  Nation  |        Amicitian Lager        |         4         |   700120   |
+|  Nation  |      Kaowtanese Melonale      |         3         |   700121   |
+|  Nation  |         Cocaine Cola          |         6         |   700122   |
+|  Nation  |        Bloomin' Onion         |         1         |   700123   |
+|  Nation  |         Azarath Mead          |         4         |   700124   |
+|  Player  |        Lord Marzenpan         |         2         |   800001   |
+|  Player  |    SoundTech's Soundcheck     |         3         |   800002   |
+|  Player  |      WingZero's Wingman       |         3         |   800003   |
+|  Player  |     Ahri's Touhou Twister     |         3         |   800004   |
+|  Player  |    Maxoplopy's Beer Garden    |         3         |   800005   |
+|  Player  |   Diet_Cola's Rum and Cola    |         3         |   800006   |
+|  Player  |      Icekeeper's Icepick      |         3         |   800007   |
+|  Player  | ProgrammerDan's Power Coffee  |         1         |   800008   |
+|  Player  |     TTK2's Closing Speech     |         3         |   800009   |
+|  Player  |    Infra's Code Injection     |         3         |   800010   |
+|  Player  | Rourke750's Vermouth Reviver  |         3         |   800011   |
+|  Player  |  TealNerd's Sneaker Schnapps  |         3         |   800012   |
+|  Player  |    Eroc's Top of the Rock     |         4         |   800013   |
+|  Player  |   RedDevel's Devilish Wine    |         3         |   800014   |
+|  Player  |       Xfier's Firesnap        |         4         |   800015   |
+|  Player  |      Orinnari's Amaretto      |         3         |   800016   |
+|  Player  |  Awoo's Git reset Hard Head   |         3         |   800017   |
+|  Player  |   Gjum's Grape Juice on Ice   |         4         |   800018   |
+|  Player  |   NoTruePunkin Spiced Mead    |         4         |   800019   |
+|  Player  |   Kingtell's Royal Absinthe   |         5         |   800020   |
+|  Player  |     Gamer Gwua Bathwater      |         3         |   800021   |
+|  Player  |      Okx's Oxeye Oxkick       |         3         |   800022   |
+|  Player  |    Leo's Orange Creamsicle    |         6         |   800023   |
+|  Player  |     Colton's Love Martini     |         3         |   800024   |
+
     
 ## List of Custom Ingredients
 
@@ -434,6 +479,7 @@ To help you start out however, we have provided some information below of all br
 | 65  |      Chlorine      |        200007        |
 | 66  |       Dough        |        200008        |
 | 67  |       Butter       |        200009        |
+| 68  |      Pornace       |        200010        |
     
 ## List of Vanilla Ingredients.
 
@@ -574,3 +620,9 @@ To help you start out however, we have provided some information below of all br
 | 133 |             Chicken (raw)             |
 | 134 |              Jungle Log               |
 | 135 |             Lightning Rod             |
+| 136 |             Rotten Flesh              |
+| 137 |                 Stone                 |
+| 138 |                 Rail                  |
+| 139 |                Mutton                 |
+| 140 |              Sea Pickle               |
+| 141 |                Cookie                 |
