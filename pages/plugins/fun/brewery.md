@@ -277,7 +277,7 @@ Brews that provide unique/usefull effects
 |     NAD+      |         6         |   600017   |
 |  Epinephrine  |         5         |   600018   |
 |   Firefoam    |         4         |   600019   |
-| Nitroglycerin |         4         |   600020   |
+| Nitroglycerin |         5         |   600020   |
 
 ### Nation Brews
 Brews that are part of a nation or group's PR/culture and were submitted by them.
