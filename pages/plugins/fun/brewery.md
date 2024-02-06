@@ -524,138 +524,137 @@ or by way of donating a high amount to the server via patreon.
 |  4  |            Beetroot Seeds             |
 |  5  |                 Apple                 |
 |  6  |                 Fern                  |
-|  7  |               Tall Fern               |
-|  8  |              Oak Leaves               |
-|  9  |                 Sugar                 |
-| 10  |              Cocoa Beans              |
-| 11  |              Melon Seeds              |
-| 12  |              Blue Orchid              |
-| 13  |               Redstone                |
-| 14  |             Glow Berries              |
-| 15  |                 Vine                  |
-| 16  |               Raw Gold                |
-| 17  |             Sweet Berries             |
-| 18  |                 Bone                  |
-| 19  |              Oak Button               |
-| 20  |               Charcoal                |
-| 21  |                Pumpkin                |
-| 22  |                 Dirt                  |
-| 23  |               Blue Ice                |
-| 24  |               Snowball                |
-| 25  |            Brown Mushroom             |
-| 26  |              Cornflower               |
-| 27  |             Red Mushroom              |
-| 28  |               Seagrass                |
-| 29  |                  Ice                  |
-| 30  |                Potato                 |
-| 31  |            Dark Oak Button            |
-| 32  |              Milk Bucket              |
-| 33  |            Dark Oak Leaves            |
-| 34  |             Birch Leaves              |
-| 35  |              Iron Nugget              |
-| 36  |            Spruce Sapling             |
-| 37  |              Azure Bluet              |
-| 38  |              Tall Grass               |
-| 39  |               Sugarcane               |
-| 40  |                Oak Log                |
-| 41  |                Salmon                 |
-| 42  |                 Peony                 |
-| 43  |               Dead Bush               |
-| 44  |              Oxeye Daisy              |
-| 45  |             Acacia Leaves             |
-| 46  |             Azalea Leaves             |
-| 47  |             Honey Bottle              |
-| 48  |             Jungle Leaves             |
-| 49  |                Cactus                 |
-| 50  |             Spruce Leaves             |
-| 51  |             Acacia Button             |
-| 52  |             Brich Sapling             |
-| 53  |             Weeping Vines             |
-| 54  |             Hanging Roots             |
-| 55  |                Carrot                 |
-| 56  |                 Poppy                 |
-| 57  |                 Book                  |
-| 58  |                 Grass                 |
-| 59  |             Golden Apple              |
-| 60  | Chorus Fruit (Currently Unobtainable) |
-| 61  |              Melon Block              |
-| 62  |               Beetroot                |
-| 63  |             Pumpkin Seeds             |
-| 64  |                 Stick                 |
-| 65  |             Diamond Sword             |
-| 66  |            Diamond Pickaxe            |
-| 67  |               Slimeball               |
-| 68  |               Gunpowder               |
-| 69  |             Blaze Powder              |
-| 70  |              Wheat Seeds              |
-| 71  |                Allium                 |
-| 72  |                  Cod                  |
-| 73  |             Tropical Fish             |
-| 74  |            Redstone Torch             |
-| 75  |               Rose Bush               |
-| 76  |             Big Dropleaf              |
-| 77  |                 Lilac                 |
-| 78  |                 Kelp                  |
-| 79  |            Cooked Chicken             |
-| 80  |              Cooked Beef              |
-| 81  |            Cooked Porkchop            |
-| 82  |              Raw Copper               |
-| 83  |            Small Dripleaf             |
-| 84  |             Leather Boots             |
-| 85  |              Wither Rose              |
-| 86  |               Black Dye               |
-| 87  |               Pink Dye                |
-| 88  |              Acacia Log               |
-| 89  |             Warped Fungus             |
-| 90  |            Crimson Fungus             |
-| 91  |             Water Bucket              |
-| 92  |              Spider Eye               |
-| 93  |           Poisonous Potato            |
-| 94  |            Horse Spawn Egg            |
-| 95  |               White Dye               |
-| 96  |            Light Blue Dye             |
-| 97  |               Sunflower               |
-| 98  |              Fire Charge              |
-| 99  |               Andesite                |
-| 100 |               Deepslate               |
-| 101 |                Red Dye                |
-| 102 |                  Egg                  |
-| 103 |              Milk Bucket              |
-| 104 |                 Bread                 |
-| 105 |            Glowstone Dust             |
-| 106 |              Magma Cream              |
-| 107 |               Blue Dye                |
-| 108 |               Green Dye               |
-| 109 |              Pufferfish               |
-| 110 |        Glistering Melon Slice         |
-| 111 |              Melon Slice              |
-| 112 |               Dandelion               |
-| 113 |            Carved Pumpkin             |
-| 114 |               Amethyst                |
-| 115 |             Spruce Button             |
-| 116 |              Orange Dye               |
-| 117 |              Yellow Dye               |
-| 118 |              Purple Dye               |
-| 119 |                  Tnt                  |
-| 120 |                 Brick                 |
-| 121 |                 Paper                 |
-| 122 |             Jungle Button             |
-| 123 |                Bamboo                 |
-| 124 |             Baked Potato              |
-| 125 |              Nether Wart              |
-| 126 |               Obsidian                |
-| 127 |             Birch Button              |
-| 128 |             Pig Spawn Egg             |
-| 129 |        Flowering Azalea Leaves        |
-| 130 |              Spruce Log               |
-| 131 |           Dark Oak Sapling            |
-| 132 |              Gold Nugget              |
-| 133 |             Chicken (raw)             |
-| 134 |              Jungle Log               |
-| 135 |             Lightning Rod             |
-| 136 |             Rotten Flesh              |
-| 137 |                 Stone                 |
-| 138 |                 Rail                  |
-| 139 |                Mutton                 |
-| 140 |              Sea Pickle               |
-| 141 |                Cookie                 |
+|  7  |              Oak Leaves               |
+|  8  |                 Sugar                 |
+|  9  |              Cocoa Beans              |
+| 10  |              Melon Seeds              |
+| 11  |              Blue Orchid              |
+| 12  |               Redstone                |
+| 13  |             Glow Berries              |
+| 14  |                 Vine                  |
+| 15  |               Raw Gold                |
+| 16  |             Sweet Berries             |
+| 17  |                 Bone                  |
+| 18  |              Oak Button               |
+| 19  |               Charcoal                |
+| 20  |                Pumpkin                |
+| 21  |                 Dirt                  |
+| 22  |               Blue Ice                |
+| 23  |               Snowball                |
+| 24  |            Brown Mushroom             |
+| 25  |              Cornflower               |
+| 26  |             Red Mushroom              |
+| 27  |               Seagrass                |
+| 28  |                  Ice                  |
+| 29  |                Potato                 |
+| 30  |            Dark Oak Button            |
+| 31  |              Milk Bucket              |
+| 32  |            Dark Oak Leaves            |
+| 33  |             Birch Leaves              |
+| 34  |              Iron Nugget              |
+| 35  |            Spruce Sapling             |
+| 36  |              Azure Bluet              |
+| 37  |              Tall Grass               |
+| 38  |               Sugarcane               |
+| 39  |                Oak Log                |
+| 40  |                Salmon                 |
+| 41  |                 Peony                 |
+| 42  |               Dead Bush               |
+| 43  |              Oxeye Daisy              |
+| 44  |             Acacia Leaves             |
+| 45  |             Azalea Leaves             |
+| 46  |             Honey Bottle              |
+| 47  |             Jungle Leaves             |
+| 48  |                Cactus                 |
+| 49  |             Spruce Leaves             |
+| 50  |             Acacia Button             |
+| 51  |             Brich Sapling             |
+| 52  |             Weeping Vines             |
+| 53  |             Hanging Roots             |
+| 54  |                Carrot                 |
+| 55  |                 Poppy                 |
+| 56  |                 Book                  |
+| 57  |                 Grass                 |
+| 58  |             Golden Apple              |
+| 59  | Chorus Fruit (Currently Unobtainable) |
+| 60  |              Melon Block              |
+| 61  |               Beetroot                |
+| 62  |             Pumpkin Seeds             |
+| 63  |                 Stick                 |
+| 64  |             Diamond Sword             |
+| 65  |            Diamond Pickaxe            |
+| 66  |               Slimeball               |
+| 67  |               Gunpowder               |
+| 68  |             Blaze Powder              |
+| 69  |              Wheat Seeds              |
+| 70  |                Allium                 |
+| 71  |                  Cod                  |
+| 72  |             Tropical Fish             |
+| 73  |            Redstone Torch             |
+| 74  |               Rose Bush               |
+| 75  |             Big Dropleaf              |
+| 76  |                 Lilac                 |
+| 77  |                 Kelp                  |
+| 78  |            Cooked Chicken             |
+| 79  |              Cooked Beef              |
+| 80  |            Cooked Porkchop            |
+| 81  |              Raw Copper               |
+| 82  |            Small Dripleaf             |
+| 83  |             Leather Boots             |
+| 84  |              Wither Rose              |
+| 85  |               Black Dye               |
+| 86  |               Pink Dye                |
+| 87  |              Acacia Log               |
+| 88  |             Warped Fungus             |
+| 89  |            Crimson Fungus             |
+| 90  |             Water Bucket              |
+| 91  |              Spider Eye               |
+| 92  |           Poisonous Potato            |
+| 93  |            Horse Spawn Egg            |
+| 94  |               White Dye               |
+| 95  |            Light Blue Dye             |
+| 96  |               Sunflower               |
+| 97  |              Fire Charge              |
+| 98  |               Andesite                |
+| 99  |               Deepslate               |
+| 100 |                Red Dye                |
+| 101 |                  Egg                  |
+| 102 |              Milk Bucket              |
+| 103 |                 Bread                 |
+| 104 |            Glowstone Dust             |
+| 105 |              Magma Cream              |
+| 106 |               Blue Dye                |
+| 107 |               Green Dye               |
+| 108 |              Pufferfish               |
+| 109 |        Glistering Melon Slice         |
+| 110 |              Melon Slice              |
+| 111 |               Dandelion               |
+| 112 |            Carved Pumpkin             |
+| 113 |               Amethyst                |
+| 114 |             Spruce Button             |
+| 115 |              Orange Dye               |
+| 116 |              Yellow Dye               |
+| 117 |              Purple Dye               |
+| 118 |                  Tnt                  |
+| 119 |                 Brick                 |
+| 120 |                 Paper                 |
+| 121 |             Jungle Button             |
+| 122 |                Bamboo                 |
+| 123 |             Baked Potato              |
+| 124 |              Nether Wart              |
+| 125 |               Obsidian                |
+| 126 |             Birch Button              |
+| 127 |             Pig Spawn Egg             |
+| 128 |        Flowering Azalea Leaves        |
+| 129 |              Spruce Log               |
+| 130 |           Dark Oak Sapling            |
+| 131 |              Gold Nugget              |
+| 132 |             Chicken (raw)             |
+| 133 |              Jungle Log               |
+| 134 |             Lightning Rod             |
+| 135 |             Rotten Flesh              |
+| 136 |                 Stone                 |
+| 137 |                 Rail                  |
+| 138 |                Mutton                 |
+| 139 |              Sea Pickle               |
+| 140 |                Cookie                 |

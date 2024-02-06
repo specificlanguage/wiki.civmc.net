@@ -51,6 +51,7 @@ Below are explanations on the plugins CivMC uses, and detailed information about
 
 * [ItemExchange](./plugins/fun/itemexchange) - Shop chests, and how to set them up and protect them.
 * [Brewery](./plugins/fun/brewery) - The making of Alcoholic drinks, special foods and drugs!
+* [EvenMoreFish](./plugins/fun/evenmorefish) - Catch many unique fish with sizes and competitions! Including many decorational heads.
 * [Wordbank](./plugins/fun/wordbank) - Unique discoverable colored names for your items, to show off how rich and cool you are.
 * [Railswitch](./plugins/fun/railswitch) - Automatic AFKable travel, by use of minecart. How it works, how to use is, and how to set it up.
 * [Elevators](./plugins/fun/elevators) - Exactly what you'd think, you jump on this block and you tp up, you sneak, you tp down. 

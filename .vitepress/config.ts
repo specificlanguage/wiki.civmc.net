@@ -60,6 +60,7 @@ export default defineConfig({
             items: [
               { text: "Item Exchange", link: "pages/plugins/fun/itemexchange" },
               { text: "Brewery", link: "pages/plugins/fun/brewery" },
+              { text: "EvenMoreFish", link: "pages/plugins/fun/evenmorefish" },
               { text: "Wordbank", link: "pages/plugins/fun/wordbank" },
               { text: "Railswitch", link: "pages/plugins/fun/railswitch" },
               { text: "Elevators", link: "pages/plugins/fun/elevators" },
