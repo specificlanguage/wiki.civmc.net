@@ -9,7 +9,7 @@ On CivMC minecarts move faster than vanilla. And can be made even faster by putt
 Waxing the copper does not work to prevent this. Although the process of **deoxidation** has been made easier. Simply **right click the rail with an axe**, to revert the oxidation on the copper below. This will take durability off your axe like normal.
 
 To incentivize building rails above ground, rails that have clear access to sky above them move slightly faster than those covered up with blocks or underground. 
-Below is a chart that indicates the max speed both underground and above. for each of the copper oxidation levels and other blocks.
+Below is a chart that indicates the max speed both underground and above, for each of the copper oxidation levels and other blocks.
 
 | Block            | Aboveground | Underground |
 |:---------------- |:-----------:|:-----------:|
@@ -38,10 +38,10 @@ There's 3 different ways to put down copper (or cobblestone) underneath your rai
 
 Doing both is a bit overkill, but it is possible for those who want to maintain their rails less often, as both need to oxidize before speed slows down. And each has a separate chance to oxidize.
 
-#### Maintanaing rails. 
+#### Maintaining rails. 
 
 In most cases, copper under the rails has a 2% chance to oxidize a step whenever a minecart with a player inside ride overtop them, and is not subject to natural oxidation. However, for copper blocks to oxidise to exposed copper, the chance is 1.5%.
-Removing oxidation is very simple, just right click the rail with any axe, particles with appear with each step when succesful like so: 
+To remove oxidation right click the rail with any axe, particles with appear with each step when succesful like so: 
 ![MaintainRail](./media/MaintainRail.png)
 
 ### Extra Notes
@@ -58,4 +58,4 @@ To help with breeding horses you can also check their stats by right clicking a 
 ![HorseStats](./media/HorseStats.png)
 
 ## Disabled elytras
-Elytras as of this moment have been disabled completely. As they are unable to be made. 
+Elytras as of this moment have been disabled completely.
