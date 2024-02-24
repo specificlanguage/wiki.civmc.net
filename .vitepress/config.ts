@@ -47,10 +47,8 @@ export default defineConfig({
               { text: "JukeAlert", link: "pages/plugins/unique/jukealert" },
               { text: "Bastions", link: "pages/plugins/unique/bastions" },
               { text: "Realistic Biomes", link: "pages/plugins/unique/rb" },
-              {
-                text: "Chunk Limits",
-                link: "pages/plugins/unique/chunklimits",
-              },
+              { text: "Transport Changes", link: "pages//plugins/unique/Transport" },
+              { text: "Chunk Limits",link: "pages/plugins/unique/chunklimits" },
             ],
           },
           {
