@@ -17,11 +17,11 @@ Below is a chart that indicates the max speed both underground and above, for ea
 | Exposed Copper   |   24 m/s    |   23 m/s    |
 | Weathered Copper |   19 m/s    |   18 m/s    |
 | Oxidized Copper  |   15 m/s    |   14 m/s    |
-| Any other block  |   12 m/s    |   11 m/s    |
+| Any other block  |   10 m/s    |    9 m/s    |
 | Cobblestone      |    8 m/s    |    8 m/s    |
 
-You should notice that putting **cobblestone** underneath a rail will revert the max speed back to vanilla. This is done so that players can slow down before more complex rail junctions, that rely on timings. Or to prevent derailing on sharp turns.. 
-It is also advised to **slow back down before going up**, else the minecart is likely to bounce back instead. This doesn't quite require cobblestone speed, but normal is optimal.
+You should notice that putting **cobblestone** underneath a rail will revert the max speed back to vanilla. This is done so that players can slow down before more complex rail junctions, that rely on timings.
+It is also advised to **slow down before going up**, else the minecart is likely to bounce back instead.
 
 ### Putting down copper
 
