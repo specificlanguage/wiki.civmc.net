@@ -204,6 +204,8 @@ The most simple form of brews, made with either base and/or custom ingredients.
 |       BloodWeiser       |         4         |   300107   |
 |  De-Coffin-Ated Curse   |         3         |   300108   |
 |         Phantom         |         4         |   300109   |
+|         Eggnog          |         8         |   300110   |
+|        Advocaat         |         5         |   300111   |
 
 ### Food Brews
 Brews that restore saturation
@@ -231,6 +233,11 @@ Brews that restore saturation
 | Mediterranean Medly |        11         |   400019   |
 |   Halloween Candy   |         3         |   400020   |
 |       Cheese        |         3         |   400021   |
+|    Easter Bread     |         6         |   400022   |
+|   Candied Carrots   |         5         |   400023   |
+|      Dyed Eggs      |         2         |   400024   |
+|    Deviled Eggs     |         6         |   400025   |
+|     Carrot Cake     |         6         |   400026   |
 
 ### Cocktail Brews
 Brews made from other brews, sometimes with extra ingredients
@@ -439,6 +446,7 @@ or by way of donating a high amount to the server via patreon.
 |      Okx's Oxeye Oxkick      |         3         |   800022   |
 |   Leo's Orange Creamsicle    |         6         |   800023   |
 |    Colton's Love Martini     |         3         |   800024   |
+|      Golden Pick Stout       |         4         |   800025   |
 
     
 ## List of Custom Ingredients
@@ -504,15 +512,17 @@ or by way of donating a high amount to the server via patreon.
 | 57  | Exotic Fruit Sirup |        100059        |
 | 58  |       Acorn        |        100060        |
 | 59  |      Quinine       |        100061        |
-| 60  |       Helium       |        200001        |
-| 61  |       Carbon       |        200002        |
-| 62  |       Oxygen       |        200003        |
-| 63  |      Nitrogen      |        200004        |
-| 64  |     Phosphorus     |        200006        |
-| 65  |      Chlorine      |        200007        |
-| 66  |       Dough        |        200008        |
-| 67  |       Butter       |        200009        |
-| 68  |      Pornace       |        200010        |
+| 60  |     Mayonnaise     |        100062        |
+| 61  |      Mustard       |        100063        |
+| 62  |       Helium       |        200001        |
+| 63  |       Carbon       |        200002        |
+| 64  |       Oxygen       |        200003        |
+| 65  |      Nitrogen      |        200004        |
+| 66  |     Phosphorus     |        200006        |
+| 67  |      Chlorine      |        200007        |
+| 68  |       Dough        |        200008        |
+| 69  |       Butter       |        200009        |
+| 70  |      Pornace       |        200010        |
     
 ## List of Vanilla Ingredients.
 
@@ -659,3 +669,4 @@ or by way of donating a high amount to the server via patreon.
 | 139 |              Sea Pickle               |
 | 140 |                Cookie                 |
 | 141 |             Crimson Roots             |
+| 142 |             Gold Pickaxe              |
