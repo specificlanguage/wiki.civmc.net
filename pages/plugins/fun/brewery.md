@@ -38,9 +38,9 @@ There are 2 versions. a small one which can hold and age 9 brews, and a large on
 
 As seen the small barrel, is 2x2 made from wooden stairs, with the sign placed on the lower right corner.
 
-The large one is 4x4 and consist of a total of: 20 planks, 16 stairs, 5 fence posts, 1 sign in exactly the configuration shown. When correctly made a message in chat will notify the player that they have successfully made a barrel.
+The large one is 4x4 and consist of a total of: 20 planks and 16 stairs of the same type of wood, 1 fence post for the tap, and 1 sign in exactly the configuration shown. When correctly made a message in chat will notify the player that they have successfully made a barrel. The large barrel has two empty blocks in the center- you can put anything you like here (like snitches!) or leave it completely empty.
 
-knowing when and how long to age a brew for is found out by experimentation through trail and error. (1 year of aging is equal to 1 Minecraft day or 20 minutes real time)
+Knowing when and how long to age a brew for is found out by experimentation through trail and error. (1 year of aging is equal to 1 Minecraft day or 20 minutes real time)
 
 *Note that barrels can be any type of wood, and that the wood type used can matter to the brew put inside to age. 
 
@@ -117,7 +117,7 @@ The most simple form of brews, made with either base and/or custom ingredients.
 |        Champagne        |         2         |   300020   |
 |        Riesling         |         2         |   300021   |
 |          Rose           |         2         |   300022   |
-|         Wiskey          |         2         |   300023   |
+|         Whiskey         |         2         |   300023   |
 |         Scotch          |         2         |   300024   |
 |      White Whiskey      |         3         |   300025   |
 |      Corn Whiskey       |         2         |   300026   |
@@ -261,7 +261,7 @@ Brews made from other brews, sometimes with extra ingredients
 |  Pan Galactic Gargle Blaster  |         5         |   500016   |
 
 ### Drug Brews
-Brews that provide unique/usefull effects
+Brews that provide unique/useful effects
 
 |     Name      | Ingredient Amount | Texture ID |
 |:-------------:|:-----------------:|:----------:|
@@ -476,7 +476,7 @@ or by way of donating a high amount to the server via patreon.
 | 21  |       Fennel       |        100021        |
 | 22  |  Sugarcane Juice   |        100022        |
 | 23  |      Fish Oil      | 100023/100043/100044 |
-| 24  |  BlueBerry Juice   |        100024        |
+| 24  |  Blueberry Juice   |        100024        |
 | 25  |      Cinnamon      |        100025        |
 | 26  |       Banana       |        100026        |
 | 27  |       Thyme        |        100027        |
@@ -509,7 +509,7 @@ or by way of donating a high amount to the server via patreon.
 | 54  |      Hydrogen      |        100056        |
 | 55  |        Corn        |        100057        |
 | 56  |     Pine Cone      |        100058        |
-| 57  | Exotic Fruit Sirup |        100059        |
+| 57  | Exotic Fruit Syrup |        100059        |
 | 58  |       Acorn        |        100060        |
 | 59  |      Quinine       |        100061        |
 | 60  |     Mayonnaise     |        100062        |
@@ -522,7 +522,7 @@ or by way of donating a high amount to the server via patreon.
 | 67  |      Chlorine      |        200007        |
 | 68  |       Dough        |        200008        |
 | 69  |       Butter       |        200009        |
-| 70  |      Pornace       |        200010        |
+| 70  |      Pomace        |        200010        |
     
 ## List of Vanilla Ingredients.
 
