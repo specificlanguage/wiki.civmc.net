@@ -26,7 +26,7 @@ export default defineConfig({
           {
             text: "Essential",
             link: "pages/plugins/essential/",
-            collapsed: true,
+            collapsed: false,
             items: [
               { text: "NameLayer", link: "pages/plugins/essential/namelayer" },
               { text: "Citadel", link: "pages/plugins/essential/citadel" },
@@ -39,7 +39,7 @@ export default defineConfig({
           {
             text: "Unique",
             link: "pages/plugins/unique/",
-            collapsed: true,
+            collapsed: false,
             items: [
               { text: "Hiddenore", link: "pages/plugins/unique/hiddenore" },
               { text: "Factorymod", link: "pages/plugins/unique/factorymod" },
@@ -55,7 +55,7 @@ export default defineConfig({
           {
             text: "Fun",
             link: "pages/plugins/fun/",
-            collapsed: true,
+            collapsed: false,
             items: [
               { text: "Item Exchange", link: "pages/plugins/fun/itemexchange" },
               { text: "Brewery", link: "pages/plugins/fun/brewery" },
