@@ -43,7 +43,8 @@ Below are explanations on the plugins CivMC uses, and detailed information about
 
 * [HiddenOre](./plugins/unique/hiddenore) - Where to find your everyday ores, and more. 
 * [Factorymod](./plugins/unique/factorymod) - Crafting but better, The industrial revolution has come to Minecraft.
-* [Finale](./plugins/unique/finale) - PVP Tweaks, important to know for those inclined to conflict. 
+* [Finale](./plugins/unique/finale) - PVP Tweaks, important to know for those inclined to conflict.
+* [PvP Server](./plugins/unique/pvpserver) - CivMC's PvP server, where players can practice all their combat skills
 * [JukeAlert](./plugins/unique/jukealert) - Surveillance, get to know how to track thieves, griefers and other villains. Or learn how to avoid being seen.  
 * [Bastions](./plugins/unique/bastions) - A late game field of protection and control around your city or military infrastructure.
 * [Realistic Biomes](./plugins/unique/rb) - How to get XP and why you can't grow crops like normal. 

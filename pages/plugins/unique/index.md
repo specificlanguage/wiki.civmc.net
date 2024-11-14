@@ -11,6 +11,8 @@ description: Unique Mechanics
 
 [Finale](./finale) - PVP Tweaks, important to know for those inclined to conflict. 
 
+[PvP Server](./pvpserver) - CivMC's PvP server, where players can practice all their combat skills
+
 [JukeAlert](./jukealert) - Surveillance, get to know how to track thieves,griefers and other villains. or learn how to avoid being seen.
 
 [Bastions](./bastions) - A late game field of protection and control around your city, or military infrastructure.

@@ -44,6 +44,7 @@ export default defineConfig({
               { text: "Hiddenore", link: "pages/plugins/unique/hiddenore" },
               { text: "Factorymod", link: "pages/plugins/unique/factorymod" },
               { text: "Finale", link: "pages/plugins/unique/finale" },
+              { text: "PvP Server", link: "pages/plugins/unique/pvpserver" },
               { text: "JukeAlert", link: "pages/plugins/unique/jukealert" },
               { text: "Bastions", link: "pages/plugins/unique/bastions" },
               { text: "Realistic Biomes", link: "pages/plugins/unique/rb" },
