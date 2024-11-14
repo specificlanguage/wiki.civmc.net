@@ -1,6 +1,6 @@
 # PvP server
 CivMC makes available to all players a seperate server, to practice its unique brand of PvP. Players can join the PvP server either via the IP: **pvp.civmc.net** 
-Or by using the **/server pvp** command on the main server. 
+Or by using the **/server pvp** command on the main server, be mindfull though that this does leave a combatlogger.
 Likewise to go back to the main server you can use **/server main** on the PvP server. Or jump through the lobby portal. 
 
 ## Arenas
@@ -44,4 +44,4 @@ To share one of your created kits, you need share with the other player the name
 ## Namelayer
 While the PvP server does contain the namelayer plugin, it is not used during battles. The reason it's available is to connect your group messages from the main server to the PvP server! This allows you to still speak to anyone in your groups and even global chat!
 This only updates every server restart however due to technical limitations. Any person added on the main server will have to wait a day before they can communicate in that group on the pvp server.
-Because of this aswell, groups can not be altered or managed from the pvp server. You'll have to join the main server or use kira commands to do that instead.
+Because of this too, groups can not be altered or managed from the pvp server. You'll have to join the main server or use kira commands to do that instead.
