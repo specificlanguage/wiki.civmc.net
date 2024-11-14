@@ -40,3 +40,8 @@ To edit one of your existing kits right click on it in the kit menu. To delete i
 
 ### Sharing Kits
 To share one of your created kits, you need share with the other player the name of your kit. They can then utilize **/kit copy (Player) (Kit name) (New kit name)** This creates a copy of the specified player's kit under the name you've put in.
+
+## Namelayer
+While the PvP server does contain the namelayer plugin, it is not used during battles. The reason it's available is to connect your group messages from the main server to the PvP server! This allows you to still speak to anyone in your groups and even global chat!
+This only updates every server restart however due to technical limitations. Any person added on the main server will have to wait a day before they can communicate in that group on the pvp server.
+Because of this aswell, groups can not be altered or managed from the pvp server. You'll have to join the main server or use kira commands to do that instead.
