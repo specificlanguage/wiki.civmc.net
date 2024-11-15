@@ -1,3 +1,8 @@
+---
+title: PvP Server
+description: CivMC's PVP practice server
+---
+
 # PvP server
 CivMC makes available to all players a seperate server, to practice its unique brand of PvP. Players can join the PvP server either via the IP: **pvp.civmc.net** 
 Or by using the **/server pvp** command on the main server, be aware that this does leave a combatlogger!
