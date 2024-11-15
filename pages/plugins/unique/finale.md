@@ -72,13 +72,13 @@ Shields have the ability to bash. While right clicking with a shield to defend, 
 A cooldown of 5 seconds is applied after activting this ability. Holding right click after activating it once will not activate the ability again after cooldown.
 
 ### Firework Crossbows (Currently only available on PvP server)
-Using firework rockets with a crossbow makes the projectile explode with a 2 block radious on impact, destroying blocks and damaging reinforcements and bastions.
+Using firework rockets with a crossbow makes the projectile explode with a 2 block radius on impact, destroying blocks and damaging reinforcements and bastions.
 A single rocket fired this way does 5 reinforcement damage and/or 5 bastion damage.
 
 A cooldown of 4 seconds is applied after firing. Preventing you from spamming rocket by preloading crosbows. 
 
 ### Enhanced Arrows (Currently only available on PvP server)
-Potion tipped arrows explode in a radious on impact beyond a range of 10 blocks. This applies the effect to anyone in a 1 block radious of the impact, doing only 25% damage of a normal arrow.
+Potion tipped arrows explode in a radius on impact beyond a range of 10 blocks. This applies the effect to anyone in a 1 block radius of the impact, doing only 25% damage of a normal arrow.
 There is no cooldown on this apart from how long it takes to draw a bow
 
 ### Ally system (Currently only available on PvP server)
