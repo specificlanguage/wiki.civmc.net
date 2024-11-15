@@ -62,8 +62,8 @@ Some enchants have been disabled completely through Finale. This only counts for
 Finale also adds certain new mechanics and features to PvP on CivMC. These are described below
 
 ### Warp Fruit (Currently only available on PvP server)
-Chorus fruit serve a new purpose! Instead of teleporting your randomly they tp you back 12 seconds in time, for a maximum of 100 blocks. This allows players to escape from traps or being boxed in during a fight.
-A cooldown of 10 seconds is applied to warpfruit on use
+Chorus fruit serve a new purpose! Instead of teleporting your randomly they tp you back 7 seconds in time, for a maximum of 100 blocks. This allows players to escape from traps or being boxed in during a fight.
+A cooldown of 180 seconds (3 minutes) is applied to warpfruit on use
 
 While a player is consuming a warp fruit a green particle ring indicates to them where they will tp to. For other players this particle ring is purple instead.
 
