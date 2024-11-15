@@ -93,7 +93,7 @@ The below commands apply to this feature:
 #### Netherite Axes (Currently only available on PvP server)
 - Netherite axes do 2x extra damage to your opponents armor.
 
-#### Netherite Armor Bonus (Currently only available on PvP server)
+#### Netherite Armor Bonus
 - Wearing a full set of netherite armor applies a permanent fire resistance effect 
 
 #### Meteoric Iron Sword
