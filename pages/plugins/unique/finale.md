@@ -85,9 +85,9 @@ There is no cooldown on this apart from how long it takes to draw a bow
 Allies are marked with a blue nametag, players you have marked as allies don't take arrow damage fired by you. Nor have negative effects applied to them from tipped arrows fired by you.
 
 The below commands apply to this feature:
-/ally add "player" (This marks a players as an ally to you)
-/ally remove "player" (This unmarks a player as an ally to you)
-/ally list (this shows a list of players marked as an ally to you)
+- /ally add "player" (This marks a players as an ally to you)
+- /ally remove "player" (This unmarks a player as an ally to you)
+- /ally list (this shows a list of players marked as an ally to you)
 
 ### Small features
 #### Netherite Axes (Currently only available on PvP server)
