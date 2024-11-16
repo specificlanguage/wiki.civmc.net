@@ -21,7 +21,7 @@ The main purpose of heliodor gems is to create the tool that allows you to find 
     - 256 Lapis blocks
 
 3. This creates 128 rough Heliodor gems (0% infused). To infuse the rough gems you will need to place them above a cauldron with lava. This starts a 1 minute and 40 second process indicated with lava particle effects that turn the gems from gold blocks to emerald blocks. The lava will be consumed in the process. Break the emerald blocks, and you will have rough heliodor gems (5% infused) Repeat the cycle again and you will have rough Heliodor gems (10% infused)
-![Gem Infusing](./media/geminfusing.mp4)
+![Gem Infusing](./media/geminfusing.gif)
 
 4. After every 2 cycles the rough gems reach max infusion. This means you need to go back to the gem factory, input your partially infused rough heliodor gems and run the "Refill Heliodor gems" recipe. This recipe requires the following resources:
     - 32 player Essence
