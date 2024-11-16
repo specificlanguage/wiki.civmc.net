@@ -19,6 +19,8 @@ description: Unique Mechanics
 
 [Realistic Biomes](./rb) - How to get XP and why you can't grow crops like normal. 
 
+[Heliodor](./heliodor) - Unique high value resource and its various uses.
+
 [Transport Changes](./Transport) - Faster rails, copper rails, faster horses and disabled elytras
 
 [Chunk Limits](./chunklimits) - Limits how many things you can place in a chunk like redstone.

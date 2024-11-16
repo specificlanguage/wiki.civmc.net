@@ -34,7 +34,7 @@ To create a kit open the GUI with **/kit** and click on the paper item on the bo
 After choosing a name you will be met with this GUI:
 |                   Kit creation GUI                   |
 |:----------------------------------------------------:|
-| ![Kit creation](./media/kitcreation.png) |
+|     ![Kit creation](./media/kitcreation.png)         |
 
 The Orange squares here represent your armor slots with the most right one being for your off hand, the gray your represents inventory and yellow your hotbar. 
 Clicking on any of these squares will open another menu where you can pick items to equip in that slot. Whether it be armor, weapons, potions, blocks etc you have full range to test out what works best.
