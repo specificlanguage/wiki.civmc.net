@@ -35,7 +35,8 @@ Once you have your gems you can create the Heliodor pickaxe. Craft it with 3 gem
 ![Heliodor Pickaxe](./media/heliodorpick.png)
 
 This pickaxe is crucial to finding the rare resource of Meteoric Iron. Only it has the ability to discover the Meteoric Iron veins around you when you use it to dig.
-Don't be too carefree using it though, as it cannot be repaired.
+Don't be too carefree using it though, as it cannot be repaired.\n
+Once a vein has been mined out more than 50% of its total ores, the heliodor pickaxe stop detecting the vein and no longer displays a chat message when mining around it.
 
 ## Meteoric Iron
 Meteoric Iron is a resource with unique magical properties. From armor to weapons, tools and some other things, it's a most useful resource to have. But very hard to come by.
