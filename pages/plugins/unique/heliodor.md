@@ -16,7 +16,6 @@ The main purpose of heliodor gems is to create the tool that allows you to find 
     - 256 Emerald Blocks
 2. After making the gem factory select and run the "Facet heliodor gem" recipe. This recipe requires the following resources:
     - 32 Player Essence
-    - 64 Redstone blocks
     - 128 Gold blocks
     - 128 Emerald blocks
     - 256 Lapis blocks
