@@ -112,7 +112,8 @@ These also have vastly higher durability to their diamond/netherite counterpart,
 The Meteoric Iron Pickaxe can insta-mine all stone types, this includes deepslate. A formerly impossible
 
 ##### Meteoric Iron Axe
-The meteoric Iron axe mimics a diamond axe mining speed except that it can break the following blocks instantly:
+The meteoric Iron axe mimics a diamond axe mining speed except for the following blocks, these get broken in 2 ticks instead. (7 ticket with the server break delay.)\n
+The blocks below also take 2.5x reinforcement damage. Meaning that a stone reinforced chest needs to be broken 20 times instead of 50 to destroy the reinforcement. 
 - Chest, trapped chest
 - Fence gates
 - Wooden pressure plates
@@ -127,14 +128,12 @@ The meteoric Iron axe mimics a diamond axe mining speed except that it can break
 - Wooden stairs
 - Crafting table
 
-The following blocks take 2 ticks to mine with the Meteoric Iron axe:
+The following blocks take 2x reinforcement damage when broken with the Meteoric Iron axe:
 - Iron door
 - Iron trapdoor
 - Iron bars
-- Dispenser
-- Dropper
-- Hopper
-
+- Copper trapdoor
+- Copper door
 
 ##### Enchants
 These tools also come pre-enchanted, observer below which enchantments each tool has:
