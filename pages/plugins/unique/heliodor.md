@@ -58,7 +58,7 @@ Hovering over these chat messages will display a tooltip explaining more closely
 ![Tooltip](./media/heliodorpick.png)
 
 
-Because the area scanned to find a vein when using the heliodor pickaxe is a circle of 75 blocks, it is best to search in a hexagonal pattern around the portals. This maximises the search area with each block broken, saving you precious durability on the pickaxe. 
+Because the area scanned to find a vein when using the heliodor pickaxe is a sphere of 75 blocks, it is best to search in a hexagonal pattern around the portals. This maximises the search area with each block broken, saving you precious durability on the pickaxe. 
 
 #### Mining a vein
 One you have located a vein, when your pickaxe indicates high traces of Meteoric Iron. Dig around in the area with any other pickaxe to excavate it. Your first ore will tell you where to focus, as the radius of these veins is only 5. \n
