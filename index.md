@@ -4,20 +4,20 @@ layout: home
 
 hero:
   name: "Welcome to the CivMC Wiki"
-  tagline: Hints, tips, tricks and guides on all things CivMC.
+  tagline: All the information you'll ever need when playing on CivMC!
   actions:
     - theme: brand
-      text: Getting Started
-      link: /pages/getting-started
+      text: What is CivMC?
+      link: /pages/server-overview
 
 features:
-  - title: Getting Started
-    details: Important things to know starting off on CivMC
-    link: /pages/getting-started
+  - title: New Player Guide
+    details: A full guide to start your journey!
+    link: /pages/new-player-guide
+  - title: Server Overview
+    details: What is CivMC? and helpful links.
+    link: /pages/server-overview
   - title: Unique Mechanics
-    details: Details of Mechanics unique to CivMC
+    details: A list of plugins unique to CivMC.
     link: /pages/plugins/unique/index
-  - title: Fun Features
-    details: Extra mechanics that provide fun and flavor
-    link: /pages/plugins/fun/index
 ---

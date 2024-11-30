@@ -12,13 +12,14 @@ export default defineConfig({
     },
 
     nav: [
-      { text: "Getting Started", link: "/pages/getting-started" },
+      { text: "New Player Guide", link: "/pages/new-player-guide" },
+      { text: "Server Overview", link: "/pages/server-overview" },
       { text: "Unique Plugins", link: "/pages/plugins/unique/" },
-      { text: "Fun Features", link: "//pages/plugins/fun/" },
     ],
 
     sidebar: [
-      { text: "Getting Started", link: "/pages/getting-started" },
+      { text: "New Player Guide", link: "/pages/new-player-guide" },
+      { text: "Server Overview", link: "/pages/server-overview" },
       { text: "Change Log", link: "/pages/changelog" },
       {
         text: "Plugins",
