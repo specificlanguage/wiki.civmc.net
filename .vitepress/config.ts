@@ -57,7 +57,7 @@ export default defineConfig({
           {
             text: "Fun",
             link: "pages/plugins/fun/",
-            collapsed: false,
+            collapsed: true,
             items: [
               { text: "Item Exchange", link: "pages/plugins/fun/itemexchange" },
               { text: "Brewery", link: "pages/plugins/fun/brewery" },
