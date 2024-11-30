@@ -26,7 +26,7 @@ War, like the real world, can drag out for awhile. Wars on CivMC in some cases h
 While CivMC can be quite the grind sometimes, there are also many things to do that are less intensive. Besides building nice things (it is Minecraft after all), you can become a merchant and sell your goods in shops around the world... Or delve into brewery and discover new drinks, foods and drugs with their unique effects. Or maybe you're a fighter looking for the thrill of battle, either lending out your sword to nation states or taking the more risky route of raiding? Or perhaps you'd simply enjoy a nice group of friends to play Minecraft with. The sky is the limit when you log onto CivMC.
 
 ## Helpful Links
-[Starting Guide (WIP)](./pages/new-player-guide) - A handy guide for those starting out on their journey through the world of CivMC.
+[New Player Guide](./new-player-guide) - A handy guide for those starting out on their journey through the world of CivMC.
 
 [Word Map](https://civmc-map.github.io/) - A player made and maintained map of the world, featuring a map of nations.
 
