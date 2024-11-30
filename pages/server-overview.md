@@ -1,9 +1,9 @@
 ---
-title: Getting Started
-description: A guide for all Newfriends
+title: Server Overview
+description: An overview of all server mechanics/plugins
 ---
 
-# Getting Started
+# Server Overview
 ## What is CivMC?
 ### Civilization Building
 CivMC's main focus is the simulation of civilization. There are mechanics unique to the server like protecting blocks individually by reinforcing them with resources. This gives buildings, cities, and whole nations a layer of control and protection, neither of which are infallible unlike other genres such as Factions, or Towny. This, in conjunction with another unique feature of imprisoning other players through combat, allows nations to enforce their laws and will on others through force when other means fail.  

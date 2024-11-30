@@ -1,3 +1,8 @@
+---
+title: New Player Guide
+description: A guide for all Newfriends
+---
+
 # An Introduction to CivMC
 
 ## Part 1: What is Civ?
