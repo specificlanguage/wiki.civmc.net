@@ -5,12 +5,12 @@ description: A guide for all Newfriends
 
 # An Introduction to CivMC
 
-## Part 1: What is Civ?
+## What is Civ?
 Welcome to CivMC! This is the latest mainline server in the Civ genre, which has over a decade of storied history. This is a very fun server, but there is a lot to learn and unpack to make your experience here as meaningful as possible. Civ is truly one of the most immersive games that exist due to its unique community, plugins, alliances, wars, etc that all contribute to the dynamic of the server.
 
 Besides stuff like hacking, harassment based on out of game factors, and exploiting, all justice on Civ is carried out by the players which makes the game so unique. You can raid and grief and not get banned, but do not let that fool you into thinking you can get away with it! There are many competent nations with developed infrastructure and players to bring you to justice if you do decide to go down that route.
 
-## Part 2: Getting oriented
+## Getting oriented
 If you haven’t already you can join the **official CivMC Discord** server with this link: https://discord.gg/HkD79GfmQQ
 
 In order to get access to all of the channels you need to join the server at the IP **play.civmc.net** and run the command **/discordauth**, which will give you a code for you to use to verify in the Discord server. The Discord is where a bulk of the discussions, trading, feedback, and community support takes place so it is especially important for you to join it!
@@ -28,10 +28,10 @@ Here you can read up on CivMC’s 2 year history as well as the rest of the Civ 
 https://civmc-map.github.io/
 This is a player created and maintained map of the world. It includes many layers of information, but is mainly used by players for the political map. This map shows you what land is currently "Claimed" by nations on the server. This layer is updated about every month and may not be 100% accurate.
 
-## Part 3: Basic Mechanics
+## Basic Mechanics
 Civ is driven by its complex plugins which allow for player-enforced justice and protection. Many times these plugins are combined together to legitimize the power of players and groups.
 
-### 1. [NameLayer](./plugins/essential/namelayer)
+### [NameLayer](./plugins/essential/namelayer)
 This is the ultimate group management plugin (Imagine discord, but for minecraft !!).
 
 Namelayer allows you to create different groups with a name of your choosing. You can add/remove/promote/demote different players on this group and depending on their level of permission they can do the same, access reinforcements (called bypass, allowing others to break your reinforced blocks instantly) and build things that you can also access as the owner.
@@ -46,7 +46,7 @@ Here are the various commands relevant to Namelayer:
 ![nlgui](./media/nlgui.png)
 *Pictured: GUI of the /nl command*
 
-### 2. [Citadel](./plugins/essential/citadel)
+### [Citadel](./plugins/essential/citadel)
 Citadel may be the most important plugin to the Civ genre. Citadel allows you to spend various materials (stone, iron, diamonds) to reinforce all types of blocks. This allows you to fortify your city and valuables from raiders and griefers.
 
 The materials required for reinforcing and their respective health are listed in the table below. These can also be checked by running the command **/reinforcements** in game.
@@ -73,7 +73,7 @@ In simple terms, in order to break a diamond reinforced block, you would have to
 ![cti](./media/cti.png)
 *Pictured: an example output of a block with /cti enabled*
 
-### 3. [Bastions](./plugins/unique/bastions)
+### [Bastions](./plugins/unique/bastions)
 Citadel can help enemies from breaking your stuff, but it can’t prevent them from placing grief! Even worse, they might use Citadel against you to place reinforced grief on your builds or farms. This is where Bastion comes into play.
 
 **A bastion** either refers to a city bastion or vault bastion. Both of these bastions prevent enemies from reinforcing blocks, placing water or lava and boats. However these bastion types both serve drastically different purposes.
@@ -82,7 +82,7 @@ Citadel can help enemies from breaking your stuff, but it can’t prevent them f
 
 **A vault bastion** covers a 21x21 area and does everything a city bastion does, with the addition of preventing enemy block placement and blocking pearls. These are used for areas that warrant the utmost protection, especially large player made prisons called vaults. If you want to learn more about vaults, which is probably the coolest thing that exists on Civ, you can read the player Wiki article on it here: https://civwiki.org/wiki/Vault
 
-### 4. [JukeAlert](./plugins/unique/jukealert)
+### [JukeAlert](./plugins/unique/jukealert)
 Don’t think you can raid and get away with it! There exists different blocks called “snitches” in the game that relay all sorts of information to the people in its group, Just like a cctv!
 
 There are 2 types of snitches:
@@ -103,7 +103,7 @@ In the case of jukeboxes. Running the command **/ja** in front of it will show t
 
 *Pictured: GUI output of /ja. Listing all logs within the snitch Range.*
 
-### 5. [ExilePearl](./plugins/essential/exilepearl)
+### [ExilePearl](./plugins/essential/exilepearl)
 
 
 You may be wondering how players can enforce their justice once they catch you stealing their loot or griefing their builds! ExilePearl is a mechanic that allows people to banish you to the nether once they kill you, and you are unable to escape the nether until you are freed.
@@ -115,7 +115,7 @@ Don’t be too worried, most of the time pearls are not permanent and the person
 ![epshowall](./media/epshowall.png)
 *Pictured: a list of all pearled players using the **/ep showall** command. (notice the year).*
 
-### 6. [Factories](./plugins/unique/factorymod)
+### [Factories](./plugins/unique/factorymod)
 Factories are machines that allow you to mass produce items and blocks in bulk. Thereby significantly reducing costs of crafting items. Almost every block that can be crafted has a recipe that can be used with factories, from tools to fences and even ores.
 
 A factory consists of a chest, crafting table and a furnace kept side by side. And requires charcoal specifically to run. Most nations usually provide all the basic factories.
@@ -133,7 +133,7 @@ A factory consists of a chest, crafting table and a furnace kept side by side. A
 Almost Every block that can be crafted using a crafting table has a factory recipe. You can check if an item has one using the command **/item [item name]**.
 Alternatively https://civtechtree.netlify.app/items is a handy website to check out all the factories and their recipes. Remember if possible, always use factories (or buy items) instead of crafting.
 
-### 7. [Hiddenore](./plugins/unique/hiddenore)
+### [Hiddenore](./plugins/unique/hiddenore)
 By now you must be asking, how the hell do I even mine in this game called mine and craft. Well, that’s where hiddenore comes into play.
 
 Basically, and in short explanation, hiddenore makes it so every time a block is broken there is a chance ores spawn, the spawnrate depends on the Y level following the vanilla Y level distribution.
@@ -157,7 +157,7 @@ Veins are ore spawns which mimic the real world in which ores are not isolated i
 **Fossils**:
 While mining you will see fossils (which look like prismarine shards) dropping to you, these are like small loot boxes that can be broken in the smelter for random rewards.
 
-### 8. [Realistic Biomes](./plugins/unique/rb)
+### [Realistic Biomes](./plugins/unique/rb)
 You may have noticed your wheat farm isn’t growing even after several hours! Well there is a plugin called RealisticBiomes that prevents certain crops from growing based on the biome. <br>
 You can check what crops can grow with the command **/rb**. Growth times are purposely several hours long, in order to produce enough players thus create massive farms.
 
@@ -171,7 +171,7 @@ Using a special factory called an **advanced cauldon**. Players can provide mass
 ![xp recipe](./media/xp recipe.png)
 *Pictured: one of 4 xp factory recipes (yellow indicates a compressed item)*
 
-## Part 4: Nations and Getting started
+## Nations and Getting started
 Civmc is in its core a geopolitical server. Hundreds of people login everyday to write their own story. As a new player, it is widely recommended to first settle in an already established nation and learn the gripes of the plugins first. Mine a diamond vein and get max tools. Explore the world and learn about other nations. Beyond that the world's your oyster.<br>
 If you are struggling to find a nation, you can browse a selection of them on the CivMC discord in the #Nation-Ads channel. Here nations explain what they're about and why you should join them. Check it out!
 
