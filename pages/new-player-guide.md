@@ -179,3 +179,6 @@ If you are struggling to find a nation, you can browse a selection of them on th
 Every new player for the first 24 hours has the ability to teleport to another player anywhere on the server. It can be used only once and expires if unused.
 
 To use your one time teleport, type the command **/ott to [playername]** and once the receiving player accepts your request, you will instantly teleport to the player.
+
+*Credit to:*
+Jaydon, DockerImage, ZeroQL and Specificlanguage for working on this guide.
