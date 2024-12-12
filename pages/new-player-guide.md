@@ -123,7 +123,7 @@ A factory consists of a chest, crafting table and a furnace kept side by side. A
 
 |                  Carpentry Factory GUI                  |                  Basic Factory Setup                  |                      A factory room                       |
 |:-------------------------------------------------------:|:-----------------------------------------------------:|:---------------------------------------------------------:|
-| ![carpenter](./media/carpenter.png) | ![factory](./media/factory.png) | ![factoryroom](./media/factoryroom.png)) |
+| ![carpenter](./media/carpenter.png)                     | ![factory](./media/factory.png)                       | ![factoryroom](./media/factoryroom.png)                   |
 
 **To use a factory, you follow three simple steps:**
 1. Place all the required items into the chest.
@@ -168,7 +168,7 @@ You can check what crops can grow with the command **/rb**. Growth times are pur
 One of the main reasons behind making crop growth times so long is due to XP (or levels). Villagers trading is disabled and the only way to enchant is via the enchanting table, which requires levels.<br>
 Using a special factory called an **advanced cauldon**. Players can provide massive amounts of crops in return for emeralds, which can be right clicked to gain levels (like a bottle of enchanting).
 
-![xp recipe](./media/xp recipe.png)
+![xprecipe](./media/xprecipe.png)
 *Pictured: one of 4 xp factory recipes (yellow indicates a compressed item)*
 
 ## Nations and Getting started
